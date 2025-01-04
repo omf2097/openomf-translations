@@ -1,0 +1,1524 @@
+ID: 0
+Title: Pilots
+Data: Crystal
+ID: 1
+Title: Pilots
+Data: Steffan
+ID: 2
+Title: Pilots
+Data: Milano
+ID: 3
+Title: Pilots
+Data: Christian
+ID: 4
+Title: Pilots
+Data: Shirro
+ID: 5
+Title: Pilots
+Data: Jean-Paul
+ID: 6
+Title: Pilots
+Data: Ibrahim
+ID: 7
+Title: Pilots
+Data: Angel
+ID: 8
+Title: Pilots
+Data: Cossette
+ID: 9
+Title: Pilots
+Data: Raven
+ID: 10
+Title: Pilots
+Data: Major Kreissack
+ID: 11
+Title: Pilot Biography
+Data: Nach dem mysteriösen Tod ihrer Eltern, schlug sich Crystal erfolgreich alleine durch. Ihre Entschlossenheit hat sich mit großem Respekt bezahlt gemacht.
+ID: 12
+Title: Pilot Biography
+Data: Obwohl er der jüngste Teilnehmer der Wettkampfgeschichte ist, kämpft Steffan mit Fähigkeiten, die weit über seinem Alter liegen.
+ID: 13
+Title: Pilot Biography
+Data: Einst von Raven wegen seines hervorragenden Kickbox-Stils verpflichtet, sind Milanos Schnelligkeit und Kraft bereits Legende.
+ID: 14
+Title: Pilot Biography
+Data: Christians aggressiver Stil verursacht Angst in den Köpfen seiner Mitstreiter und Herzklopfen bei vielen jungen Mädchen.
+ID: 15
+Title: Pilot Biography
+Data: In den vielen langen Jahren des Wettkampfs hat Shirro eine unübertroffene Power und Härte entwickelt, seinen jugendlichen Humor jedoch nicht verloren.
+ID: 16
+Title: Pilot Biography
+Data: Mit seinem berechnenden und hinterlistigen Wesen, verbunden mit gut entwickelten Fähigkeiten, schüchtert Jean-Pauls seine Gegner ein.
+ID: 17
+Title: Pilot Biography
+Data: Als zurückgezogener Triathlet gilt Ibrahim wegen seiner Geduld und seiner Aufrichtigkeit als gefragter Ausbilder bei vielen jungen Aspiranten.
+ID: 18
+Title: Pilot Biography
+Data: Von Angel, deren Vergangenheit ein Mysterium umgibt, kennt man außer ihrer extremen Zurückgezogenheit und ihren starken Willen nicht viel mehr.
+ID: 19
+Title: Pilot Biography
+Data: Ein Veteran im Kampfsport. Cossette wurde vorsichtig, defensiv und verbittert, nachdem er einst in der Arena zum Krüppel geschlagen wurde.
+ID: 20
+Title: Pilot Biography
+Data: Als Major Kreissacks Bodyguard und rechte Hand, hat Raven viele innerhalb und außerhalb der Arena geschlagen und erniedrigt.
+ID: 21
+Title: Pilot Biography
+Data: Boss guy's description.  This really won't be seen, but we'll make space for it anyway.
+ID: 22
+Title: Robots
+Data: Jaguar
+ID: 23
+Title: Robots
+Data: Shadow
+ID: 24
+Title: Robots
+Data: Thorn
+ID: 25
+Title: Robots
+Data: Pyros
+ID: 26
+Title: Robots
+Data: Electra
+ID: 27
+Title: Robots
+Data: Katana
+ID: 28
+Title: Robots
+Data: Shredder
+ID: 29
+Title: Robots
+Data: Flail
+ID: 30
+Title: Robots
+Data: Gargoyle
+ID: 31
+Title: Robots
+Data: Chronos
+ID: 32
+Title: Robots
+Data: Nova
+ID: 33
+Title: Robot Description
+Data: SPEZIAL ZÜGE:
+
+Jaguar Sprung
+
+Gehirn Kannone
+
+Überkopf Wurf
+ID: 34
+Title: Robot Description
+Data: SPEZIAL ZÜGE:
+
+Schatten Dive
+
+Schatten Punch
+
+Schatten Slide
+
+Schatten Griff
+ID: 35
+Title: Robot Description
+Data: SPEZIAL ZÜGE:
+
+Speed-Kick
+
+Off-Wall Angriff
+
+Spikes-Ladung
+ID: 36
+Title: Robot Description
+Data: SPEZIAL ZÜGE:
+
+Feuer Kreisel
+
+Superschub Angriff
+
+Jet Sturzflug
+ID: 37
+Title: Robot Description
+Data: SPEZIAL ZÜGE:
+
+Kugelblitz
+
+Donnergrollen
+
+Elektro Schocks
+ID: 38
+Title: Robot Description
+Data: SPEZIAL ZÜGE:
+
+Turbinenblätter
+
+Knopfnuß
+
+Rasierklingen Spin
+ID: 39
+Title: Robot Description
+Data: SPEZIAL ZÜGE:
+
+Kopfstoß
+
+Flip Kick
+
+Fliegende Hände
+ID: 40
+Title: Robot Description
+Data: SPEZIAL ZÜGE:
+
+Wirbel-Wurf
+
+Power Punch
+
+Schwingende Ketten
+ID: 41
+Title: Robot Description
+Data: SPEZIAL ZÜGE:
+
+Stoßende Klaue
+
+Fliegende Kralle
+
+Wing Charge
+ID: 42
+Title: Robot Description
+Data: SPEZIAL ZÜGE:
+
+Small-Scale Teleportation
+
+Matterie-Phaser
+
+Statis Activator
+ID: 43
+Title: Robot Description
+Data: SPEZIAL ZÜGE:
+
+Minigranate
+
+Raketenwerfer
+
+Erbeben-Smash
+ID: 44
+Title: Arena Name
+Data: Stadium
+ID: 45
+Title: Arena Name
+Data: Danger Room
+ID: 46
+Title: Arena Name
+Data: Power Plant
+ID: 47
+Title: Arena Name
+Data: Fire Pit
+ID: 48
+Title: Arena Name
+Data: Desert
+ID: 49
+Title: Arena Description
+Data: Hier werden die W.A.R. Maschinen dem ersten Test unterzogen. Im Stadion sitzt ein eingeladenes Publikum.
+ID: 50
+Title: Arena Description
+Data: Das ist W.A.R.'s erste gefährliche Arena. Die Kämpfer müssen sich von den gefährlichen Spitzen fernhalten.
+ID: 51
+Title: Arena Description
+Data: Ein Kraftwerk, erbaut im 21. Jahrhundert und sehr empfänglich für Blitze. Sogar die Mauern stehen unter Hochspannung.
+ID: 52
+Title: Arena Description
+Data: Der ultimative Test, eine Gegend aus computergesteuerte Holographien, die, wenn sie berührt werden, Feuerbälle unter den Füßen Deines Gegners zünden.
+ID: 53
+Title: Arena Description
+Data: Bleib standhaft und strotze den Attacken der Fighter Jets, um in der Wüste zu überleben.
+ID: 54
+Title: Newsroom Pronouns
+Data: sein
+ID: 55
+Title: Newsroom Pronouns
+Data: ihr
+ID: 56
+Title: Newsroom Pronouns
+Data: ihn
+ID: 57
+Title: Newsroom Pronouns
+Data: ihre
+ID: 58
+Title: Newsroom Pronouns
+Data: er
+ID: 59
+Title: Newsroom Pronouns
+Data: sie
+ID: 60
+Title: Newsroom Unrnkd Chlngr Dialog
+Data: Ich bin ganz sicher, daß keiner von Ihnen den Kampf heute abend verpassen wird, denn ab heute werden wir einen NEUEN CHAMPION haben.
+ID: 61
+Title: Newsroom Unranked Challenger
+Data: Nachrichten vom Tage: Nach ~1's Kampf heute abend, hat ~2, ein ungesetzter Wettkämpfer, ~1 öffentlich herausgefordert.
+ID: 62
+Title: Newsroom Unranked Challenger
+Data: Nun, wenn ~8 die Herausvorderung an nimmt, dann bete um Dein Leben. Ich bin dabei und werde mir den Kampf ansehen!
+ID: 63
+Title: Newsroom New Champion
+Data: Ich bin ganz sicher, daß keiner von Ihnen den Kampf heute abend verpassen wird, denn ab heute werden wir einen NEUEN CHAMPION haben.
+ID: 64
+Title: Newsroom Reports
+Data: ~1 hat unglaubliche Reserven gezeigt im ~3 während ~2 mehr oder weniger als Boxsack auftrat.
+ID: 65
+Title: Newsroom Reports
+Data: Deser Treffer hier, genau wie viele andere hervorrangende Schläge, hat ~2 für eine Weile zurück in die Werkstatt geschickt.
+ID: 66
+Title: Newsroom Reports
+Data: An Sie alle da draußen, die einen guten Kampf schätzen, ich hoffe Sie haben nichts für den Fight im ~5 bezahlt.
+ID: 67
+Title: Newsroom Reports
+Data: ... aber alle, die hin und wieder einen einseitigen, masochistischen Niedrgand sehen möchten, achtet auf ~1.
+ID: 68
+Title: Newsroom Reports
+Data: Whoa, this challenger meant business tonight.  ~1 could show the old pros a thing or two about that ~3.
+ID: 69
+Title: Newsroom Reports
+Data: Achten Sie auf diese Aktion. So sah ~2 während des gesamten Matches aus: geschlagen, zerquetscht und verwirrt.
+ID: 70
+Title: Newsroom Reports
+Data: Die Menge tobte, als ~2 in dem spannenden Showdown mit ~1 zum Schluß unterlag.
+ID: 71
+Title: Newsroom Reports
+Data: ~1 begeisterte die tobenden Zuschauer mit respektablen Fähigkeiten. Hier der Schlag, der das Match beendete.
+ID: 72
+Title: Newsroom Reports
+Data: ~1 sah gut aus heute abend. ~6 ~3 veließ die ~5 nur mit einigen kleinen Kratzern vom  Gegener.
+ID: 73
+Title: Newsroom Reports
+Data: ~2 zeigte heute ein paar nette Varianten, aus denen jedoch ~1 nur Vorteile zog. Achten Sie auf diesen Treffer.
+ID: 74
+Title: Newsroom Reports
+Data: Mit einer beeindruckenden Vorstellung ließ ~1 die ~5 heute abend beben. ~2 braucht noch etwas mehr Praxis bevor ~11 ähnliche Scläge wie ~7 verteilen kann.
+ID: 75
+Title: Newsroom Reports
+Data: ~4 parts littered the floor after repeated blows like this.  Almost makes me feel sorry for ~2's repair crew.
+ID: 76
+Title: Newsroom Reports
+Data: ~1 zeigte einen respektablen Fight gegen ~2 und siegte. Gar nicht mal schlecht, ~1!
+ID: 77
+Title: Newsroom Reports
+Data: Beide hielten sich ganz gut, bis ~1 den Kampf mit diesem Treffer beendete.
+ID: 78
+Title: Newsroom Reports
+Data: ...und in der Arena tonight, ~2 gave ~1 a run for ~6 money, but came up a few thousand credits short.
+ID: 79
+Title: Newsroom Reports
+Data: ~2 hielt eine ganze Zeit durch, bis ~1 ~10 mit Zügen wie diesen keine Chance ließ.
+ID: 80
+Title: Newsroom Reports
+Data: Für alle Arena-Freaks gab es eine super Show im ~5.  ~2 kämpfte mit viel Geschick, leider reichte es nicht...
+ID: 81
+Title: Newsroom Reports
+Data: ... ~1's kraftvollen ~3 abzuwehren.  Vielleicht beim nächsten Mal, ~2.
+ID: 82
+Title: Newsroom Reports
+Data: ~1 und ~2 gaben sich gegenseitig nichts.  Die ~4 von ~2 wird heute nacht wohl in der Werkstatt verbringen!
+ID: 83
+Title: Newsroom Reports
+Data: Diese beiden kämpften verbissen Schlag auf Schlag, bis ~1 ~2 endlich mit diesem gutgetimeten Treffer festnagelte.
+ID: 84
+Title: Newsroom Reports
+Data: Ich kann nur hoffen, daß ~1 und ~2's Reperatur-Crews für heute abend keine Feten geplant haben.
+ID: 85
+Title: Newsroom Reports
+Data: Wegen dieser eher mittelmäßigen Vorstellung von ~1, ~6 ~3 repair crew will stuck in the shop almost as long as ~6 opponent's.
+ID: 86
+Title: Newsroom Reports
+Data: Wenn ich jemals einen Kampf mit völlig gleichwertigen Gegnern gesehen habe, dann heute. Wenn sie diesen Fight morgen wiederholen würden, könnte ganau so gut auch ~2 gewinnen.
+ID: 87
+Title: Newsroom Reports
+Data: ~1's, kaum noch aufrecht stehend, letzter Treffer beendete das Match. Das war ein Sieg mit sehr viel Glück.
+ID: 88
+Title: Newsroom Reports
+Data: Hier! ~2 überrennt ~1 förmlich.  ~1 sollte diesen ~3 für einige Zeit zurück ins Trainingslager nehmen.
+ID: 89
+Title: Newsroom Reports
+Data: Alles, was ich ~1 sagen kann: Nimm ein paar Trainingsstunden, dieser ~3 kann sonst nicht gewinnen.
+ID: 90
+Title: Newsroom Reports
+Data: Für alle Sportfans habe ich für diese Vorstellung nur ein Wort: LEICHATHLETIK-TREFFEN! ~2 lief im Kreis herum, war manchmal über
+ID: 91
+Title: Newsroom Reports
+Data: ~1 und dem vom Schicksal geschlagenen ~3. ~1 müsste eigentlich gegen sich wetten, wenn ~8 weitermacht, solche Dinger zu kassieren.
+ID: 92
+Title: Newsroom Reports
+Data: Mann, Mann, Mann...wer hatte die Kontrolle über diesen ~3!?  Ach so, das war ~1. Na gut, Ich gebe Dir mal ein paar heiße Tips, ~1.
+ID: 93
+Title: Newsroom Reports
+Data: Ducken, abblocken, zuschlagen, in einfachen Worten: mach irgendetwas anderes, als ewig nur die Schläge von diesem ~4 zu kassieren.
+ID: 94
+Title: Newsroom Reports
+Data: Das war ein wirklich einseitiges Match.  ~2 dominierte während des gesamten Kampfes und ~1 war völlig überfordert.
+ID: 95
+Title: Newsroom Reports
+Data: Die Vorstellung von ~2 war einfach hervorragend. ~1 konnte einfach nicht schnell genug reagieren, um diese Granaten zu abzublocken.
+ID: 96
+Title: Newsroom Reports
+Data: ~2 weiß genau, worauf es da draußen ankommt, oder - ~1 hat einfach keine Ahnung. Ohne Gnade, dies war ein typischer "Blowout".
+ID: 97
+Title: Newsroom Reports
+Data: Es gab schon ein paar glückliche Treffer von ~1, aber meistens sah das Match so aus.
+ID: 98
+Title: Newsroom Reports
+Data: Es muß zur Zeit wohl ziemlich wenige Piloten geben, wenn schon Leute wie ~1 eingestellt werden.
+ID: 99
+Title: Newsroom Reports
+Data: Diesen letzten Schlag hätte ich im Schlaf abgewehrt.  Hey, vielleicht ist das das Problem. Kann mal jemand ~1 aufwecken?.
+ID: 100
+Title: Newsroom Reports
+Data: Eine guter Auftritt von ~1, aber leider nicht genug für ~2's ~4
+ID: 101
+Title: Newsroom Reports
+Data: ~1's Tapferkeit ist uns bekannt, aber dieser Treffer zeigt, wozu ein ~4 fähig ist, wenn er von ~2 geführt wird.
+ID: 102
+Title: Newsroom Reports
+Data: Uuh, ein ganz böser Tag im Leben von ~1. Na gut, Ich nehme an ~2 wird keine Tränen über die Niederlage vergießen.
+ID: 103
+Title: Newsroom Reports
+Data: ~1 landete einige gute Treffer, wurde aber von hämmernden Granaten wie dieser zu Boden geworfen.
+ID: 104
+Title: Newsroom Reports
+Data: Hmm.. ~1 verbuchte einige Erfolge im ~5 gegen ~2 heute abend, zeigte aber nicht genug Durchsetzungsvermögen.
+ID: 105
+Title: Newsroom Reports
+Data: ~1 gewann zumehmend Boden, blieb zum Schluß aber dennoch auf dem selben liegen. Naja ~1, es gibt immer ein morgen.
+ID: 106
+Title: Newsroom Reports
+Data: Netter Versuch ~1.  Das war so knapp wie nur irgend möglich, Leute.  ~2 muss dankbar sein für...
+ID: 107
+Title: Newsroom Reports
+Data: Treffer wie dieser. Es waren die Punkte wie dieser, die ~2 nur einen halben Schritt Vorsprung gegenüber ~1 gaben.
+ID: 108
+Title: Newsroom Reports
+Data: Wow, das war knapp.  ~1 und ~2 tauschten Hammerschläge aus im ~5 bis...
+ID: 109
+Title: Newsroom Reports
+Data: ~2, angeschlagen und stolpernd, diesen finalen Treffer landete.  Wenn die beiden wieder aufeinandertreffen, wird's sicher ein Rematch geben.
+ID: 110
+Title: Newsroom Reports
+Data: Leute, etwas Mitleid für ~1 bitte. Wenn ~2 nicht einiger dieser...
+ID: 111
+Title: Newsroom Reports
+Data: glücklichen Treffer gelungen wären, glaube ich, daß ~1 locker gewonnen hätte.
+ID: 112
+Title: CPU Difficulty
+Data: CPU: BOXSACK
+ID: 113
+Title: CPU Difficulty
+Data: CPU: ANFÄNGER
+ID: 114
+Title: CPU Difficulty
+Data: CPU: VETERAN
+ID: 115
+Title: CPU Difficulty
+Data: CPU: WELT-KLASSE
+ID: 116
+Title: CPU Difficulty
+Data: CPU: CHAMPION
+ID: 117
+Title: CPU Difficulty
+Data: CPU: TÖDLICH
+ID: 118
+Title: CPU Difficulty
+Data: CPU: ULTIMATIV
+ID: 119
+Title: Too Pathetic Dialog
+Data: Wähle einen höheren CPU Schwierigkeitsgrad im GAMEPLAY-Menü.  %s Level ist nötig, um %s herauszufordern.
+
+WEITER MIT BELIEBIGER TASTE
+ID: 120
+Title: Too Pathetic Insult
+Data: Was willst Du denn hier? Komm' wieder, wenn Du gelernt hast, wie man kämpft.
+ID: 121
+Title: VS Insult
+Data: Du kommst mir bekannt vor
+ID: 122
+Title: VS Insult
+Data: Unterschätze mich nicht!
+ID: 123
+Title: VS Insult
+Data: Du kennst doch meinen Vater. Was ist mit ihm passiert?
+ID: 124
+Title: VS Insult
+Data: Ich bin fit genug, jeder Gefahr entgegenzutreten, Bruder.
+ID: 125
+Title: VS Insult
+Data: Steh' mir hier nicht im Weg 'rum. Ich muß mal eben gewinnen!
+ID: 126
+Title: VS Insult
+Data: Möchtest Du sprechen lernen?
+ID: 127
+Title: VS Insult
+Data: Ich kämpfe aus Rache! Auch Du kannst mich nicht aufhalten.
+ID: 128
+Title: VS Insult
+Data: Schöheit ist nur einer meiner Beinamen.
+ID: 129
+Title: VS Insult
+Data: Gibt es irdendetwas, das Du mir erzählen möchtest?
+ID: 130
+Title: VS Insult
+Data: Sicher weißt Du etwas.
+ID: 131
+Title: VS Insult
+Data: Ich weiß, daß Du meine eltern umgebracht hast. Ich werde sie rächen!
+ID: 132
+Title: VS Insult
+Data: Ich werde Dir für immer das Lächeln aus Deinem Gesicht wischen, Puderpuppe.
+ID: 133
+Title: VS Insult
+Data: Hey, Du siehst wunderbar aus!
+ID: 134
+Title: VS Insult
+Data: Gleich wirst Du Perfektion in Aktion erleben, Pferdeschwanz.
+ID: 135
+Title: VS Insult
+Data: Friß Blei, Blondie!
+ID: 136
+Title: VS Insult
+Data: Hey Alter, wird's nicht langsam Zeit für Dein Nickerchen?
+ID: 137
+Title: VS Insult
+Data: Nun pass' mal auf und hör' gut zu. Dreimal husten und 'raus bist Du.
+ID: 138
+Title: VS Insult
+Data: Du kannst jetzt gehen und Deine Verlegenheit verstecken.
+ID: 139
+Title: VS Insult
+Data: Erst nehme ich mir den Sieg, danach Dich!
+ID: 140
+Title: VS Insult
+Data: Du hoffst doch nicht wirklich auf eine Chance?
+ID: 141
+Title: VS Insult
+Data: Du kannst meine Stiefel putzen, wenn wir hier fertig sind.
+ID: 142
+Title: VS Insult
+Data: Und zum Schluß noch ein einfacher Gegner. Ready to rock?
+ID: 143
+Title: VS Insult
+Data: Hast Du Dich etwa vorbereitet? Das wird ein Spaß.
+ID: 144
+Title: VS Insult
+Data: Arroganz macht Männer zu Jammerlappen, mein Freund.
+ID: 145
+Title: VS Insult
+Data: Wenn ich mir Dich so ansehe...
+ID: 146
+Title: VS Insult
+Data: Ich weiß ja, daß Du dich anstrengst, aber...
+ID: 147
+Title: VS Insult
+Data: Die Firma wird bald nach meiner Nase tanzen.
+ID: 148
+Title: VS Insult
+Data: Hallo, Freund.
+ID: 149
+Title: VS Insult
+Data: Ich mache mir etwas Sorgen über Deine Motivation. Du wirst bald merken warum.
+ID: 150
+Title: VS Insult
+Data: Ich finde, wir sollten uns unbedingt wieder treffen.
+ID: 151
+Title: VS Insult
+Data: Ja, ich respektiere Deine Zähigkeit.
+ID: 152
+Title: VS Insult
+Data: Ich weiß von Deinen Plänen. Du solltest etwas diskreter sein.
+ID: 153
+Title: VS Insult
+Data: Du hast keine Ahnung was dieser Kampf bedeutet.
+ID: 154
+Title: VS Insult
+Data: Nachdem ich gewonnenhabe, wirst Du mit diesem Quatsch aufhören.
+ID: 155
+Title: VS Insult
+Data: Du hättest mir besser alles über meine Eltern erzählt.
+ID: 156
+Title: VS Insult
+Data: Du solltest nicht zwischen mir und meinen wirklichen Feinden stehen.
+ID: 157
+Title: VS Insult
+Data: Findest Du nicht auch, daß ich in diesen Klamotten gut aussehe?
+ID: 158
+Title: VS Insult
+Data: Meine Eltern kannten Dich gut. Was weißt Du?
+ID: 159
+Title: VS Insult
+Data: Was für eine Art V.P. könntest Du wohl sein?
+ID: 160
+Title: VS Insult
+Data: Erzähl' mir von Deinen Fortschritten.
+ID: 161
+Title: VS Insult
+Data: Versprich mir, daß Du mir einen Hinweis gibst, wenn ich gewinne!
+ID: 162
+Title: VS Insult
+Data: I can only hope that the future ruler will be just.
+ID: 163
+Title: VS Insult
+Data: Als Mitglied von W.A.R. must Du doch Informationen haben!
+ID: 164
+Title: VS Insult
+Data: Du hast meinen Vater getötet, bereite Dich vor, zu sterben.
+ID: 165
+Title: VS Insult
+Data: So ein schönes Mädchen wie Du, sollte nicht solch einen Ärger haben.
+ID: 166
+Title: VS Insult
+Data: Und nun muß der kleine Bube in die Schule...
+ID: 167
+Title: VS Insult
+Data: Meinst Du, Du haßt Dir die richtige Maschine ausgesucht?
+ID: 168
+Title: VS Insult
+Data: Dein Vater war ein guter Mann. Die Dinge werden sich bald von alleine regeln.
+ID: 169
+Title: VS Insult
+Data: Benutzt Du Schildkrötenschmalz für diese Frisur?
+ID: 170
+Title: VS Insult
+Data: Ich nehme an, ein paar Beulen in diesem Roboter stören Dich nicht weiter.
+ID: 171
+Title: VS Insult
+Data: Hi Ib! Lange nicht gesehen...
+ID: 172
+Title: VS Insult
+Data: Kurz: Was bist Du, Babe?
+ID: 173
+Title: VS Insult
+Data: Obwohl Ich Dich bewundere, diesen Sieg brauche ich!
+ID: 174
+Title: VS Insult
+Data: Ich weiß 'ne ganze Menge über Deine Schwächen. Gleich wirst Du ausgelöscht, Junge.
+ID: 175
+Title: VS Insult
+Data: Was machst Du denn hier? Ach ja, sehen und gesehen werden.
+ID: 176
+Title: VS Insult
+Data: Achte auf die Warnungen Deines Körpers.
+ID: 177
+Title: VS Insult
+Data: Für Dich hab' ich nichts übrig.
+ID: 178
+Title: VS Insult
+Data: Ich bin geboren, um diese Firma zu beherrschen.
+ID: 179
+Title: VS Insult
+Data: Du hast ja überhaupt keine Möglichkeit, zu gewinnen.
+ID: 180
+Title: VS Insult
+Data: Wie kannst Du noch lachen, während W.A.R. die Experimente fortführt?
+ID: 181
+Title: VS Insult
+Data: Ich wette, ich weiß was Du denkst.
+ID: 182
+Title: VS Insult
+Data: Kreissack wird Dich nicht am Leben lassen. Gib auf.
+ID: 183
+Title: VS Insult
+Data: Von Dir weiß ich gar nichts.
+ID: 184
+Title: VS Insult
+Data: Viel Glück.
+ID: 185
+Title: VS Insult
+Data: Deine Rechnung kann nicht aufgehen. Deine Feinde sind zu mächtig.
+ID: 186
+Title: VS Insult
+Data: Deine Tage der Macht sind gezählt.
+ID: 187
+Title: VS Insult
+Data: Das Experimet, an dem Dein Vater arbeitete, hätte niemals begonnen werden dürfen.
+ID: 188
+Title: VS Insult
+Data: Du wirst eine ganz böse Niederlage erleben.
+ID: 189
+Title: VS Insult
+Data: Mit meiner Erfahrung und diesem Roboter kann ich einfach nicht verlieren!
+ID: 190
+Title: VS Insult
+Data: Deine Muter war ein unschuldiges Opfer.
+ID: 191
+Title: VS Insult
+Data: Nachdem, was hier alles passiert ist, kannst Du nicht länger neutral bleiben.
+ID: 192
+Title: VS Insult
+Data: Intelligenz ist eine Gabe, aber Weisheit muß man sich erlernen.
+ID: 193
+Title: VS Insult
+Data: Zwei Typen gingen in eine Kneipe...
+ID: 194
+Title: VS Insult
+Data: Warum gibt's über Dich nichts in den Interpol Karteien?
+ID: 195
+Title: VS Insult
+Data: Du wirst demnächst schwierige Entscheidungen treffen müssen, mein Freund.
+ID: 196
+Title: VS Insult
+Data: Kreissack weiß von Deinen Plänen. Ob Du gewinnst oder verlierst, besser Du haust ab.
+ID: 197
+Title: VS Insult
+Data: Was für ein Roboter ist das. So etwas hab' ich noch nie gesehen!
+ID: 198
+Title: VS Insult
+Data: Deine Banalitäten interessieren mich nicht.
+ID: 199
+Title: VS Insult
+Data: Du bist nicht mal einen Blick wert.
+ID: 200
+Title: VS Insult
+Data: Diesmal ist es nur ein Testkampf...
+ID: 201
+Title: VS Insult
+Data: Richtig, daß Du Angst vor mir hast.
+ID: 202
+Title: VS Insult
+Data: Es ist nicht immer alles so, wies es aussieht.
+ID: 203
+Title: VS Insult
+Data: Geh weiter, Typ. Dieser Fight ist völlig belanglos.
+ID: 204
+Title: VS Insult
+Data: Wenn das hier vorbei ist, solltest Du besser mit Deinen Experimenten aufhören.
+ID: 205
+Title: VS Insult
+Data: Ich glaub', ich kann Dir vertrauen.
+ID: 206
+Title: VS Insult
+Data: Du solltest lieber aufhören, so lange Du noch die Chance dazu hast.
+ID: 207
+Title: VS Insult
+Data: Du glaubst, daß Du stark bist?
+ID: 208
+Title: VS Insult
+Data: We will not be denied!  The rebellion is at hand!
+ID: 209
+Title: VS Insult
+Data: Warun gehst Du nicht nach Hause und versteckst Dich unterm Sofa?
+ID: 210
+Title: VS Insult
+Data: Machst Du Bodybuilding? Ich bin trotzdem stärker als Du.
+ID: 211
+Title: VS Insult
+Data: Ganymede wird bakd mir gehören!
+ID: 212
+Title: VS Insult
+Data: Durch Deinen Ärger hast Du keinen klaren Kopf mehr. Du kannst nicht gewinnen.
+ID: 213
+Title: VS Insult
+Data: Mal sehen wer zuletzt lacht.
+ID: 214
+Title: VS Insult
+Data: Jetzt wirst Du ein richtiges Hirn in Aktion erleben.
+ID: 215
+Title: VS Insult
+Data: In DIESEM Fight werden Dir Deine Beine nicht viel helfen können.
+ID: 216
+Title: VS Insult
+Data: Wenn Du keine Erfahrungen mit diesen Maschinen hast, was machst Du dann hier?
+ID: 217
+Title: VS Insult
+Data: Selbstverständlich gewinne ich.
+ID: 218
+Title: VS Insult
+Data: Vielleicht stelle ich Dich hinterher als Bodyguard ein...
+ID: 219
+Title: VS Insult
+Data: Du nennst mich Feigling? Das sagst Du nur einmal.
+ID: 220
+Title: VS Insult
+Data: Du bist nichts weiter als ein Kind. Du nutzt doch nur den Namen Deines Vaters.
+ID: 221
+Title: VS Insult
+Data: Du bist wie eine Pest, die man ausrotten muß.
+ID: 222
+Title: VS Insult
+Data: Speed ist nichts gegen pure Kraft!
+ID: 223
+Title: VS Insult
+Data: Dein Vater hätte das Nova-Projekt niemals verlassen düerfen.
+ID: 224
+Title: VS Insult
+Data: Du solltest besser in den Ruhestand gehen, bevor wir Dich dort hinschicken.
+ID: 225
+Title: VS Insult
+Data: Du bist ein Freak, der ins Labor gehört.
+ID: 226
+Title: VS Insult
+Data: Ich weiß nicht was Du hier tust. Du bist völlig ohne Wert.
+ID: 227
+Title: VS Insult
+Data: Ich weiß zwar nicht wer Du bist, aber Du solltest lieber wieder dorthin verschwinden, von wo Du gekommen bist.
+ID: 228
+Title: VS Insult
+Data: Dieser Kampf ist nur für Leute mit perfektem Körper und Hirn gedacht.
+ID: 229
+Title: VS Insult
+Data: Als würde ich in einen Spiegel sehen...
+ID: 230
+Title: VS Insult
+Data: Guten abend, mein Herr. Kleines Spielchen gefällig?
+ID: 231
+Title: VS Insult
+Data: Nichts weiter als Stückwerk, oder?
+ID: 232
+Title: VS Insult
+Data: Es macht mir riesigen Spaß, die Arbeit anderer Leute zu zerstören.
+ID: 233
+Title: VS Insult
+Data: Was soll das: "Ich kämpfe gegen Dich, egal wie" ?
+ID: 234
+Title: VS Insult
+Data: Wer war das!?!
+ID: 235
+Title: VS Insult
+Data: Ich dachte, ich wäre auf der anderen Seite.
+ID: 236
+Title: VS Insult
+Data: Bitte schick' mich dorthin zurück wo ich hingehöre.
+ID: 237
+Title: VS Insult
+Data: Der Blutcode lautet: ZURÜCK ZURÜCK PUNCH KICK und dann 135 mal VOR.
+ID: 238
+Title: VS Insult
+Data: Wenn Du wie Kreissack sein möächtest drücke <F19>.
+ID: 239
+Title: VS Insult
+Data: Um Aracnid zu erreichen, mußt Du sieben Siege hintereinander hinlegen.
+ID: 240
+Title: VS Insult
+Data: Warum ließt Du dies?
+ID: 241
+Title: VS Insult
+Data: DAS will ich sehen.
+ID: 242
+Title: VS Insult Reply
+Data: Du bist das schönste Mädchen, das ich jemals gesehen habe.
+ID: 243
+Title: VS Insult Reply
+Data: Ein paar Streifen Metall, das ist alles, was von Dir übrig bleibt.
+ID: 244
+Title: VS Insult Reply
+Data: Vielleicht kannst Du mein Sekretär werden, wenn das hier vorbei ist.
+ID: 245
+Title: VS Insult Reply
+Data: Ich weiß, wie ich Dich kriege, Bruder. Du wirst verlieren.
+ID: 246
+Title: VS Insult Reply
+Data: Ich werde erst zur Ruhe kommen, wenn dieser Krieg gewonnen ist.
+ID: 247
+Title: VS Insult Reply
+Data: Wenn Du keine Informationen hast, dann nützt mir nur Deine Niederlage.
+ID: 248
+Title: VS Insult Reply
+Data: Welche Experimente? Erzähl's mir!
+ID: 249
+Title: VS Insult Reply
+Data: Undebeutetend? Du wirst für Deinen Hochmut bezahlen!
+ID: 250
+Title: VS Insult Reply
+Data: Huch? Ich zeig's Dir!
+ID: 251
+Title: VS Insult Reply
+Data: Er wird den diesen Kampf nicht gewinnen.
+ID: 252
+Title: VS Insult Reply
+Data: Warum kämpfst Du dann gegen mich, nur so?
+ID: 253
+Title: VS Insult Reply
+Data: Ich unterschätze niemanden. Ich bin einfach besser als Du.
+ID: 254
+Title: VS Insult Reply
+Data: Danke, Darling.
+ID: 255
+Title: VS Insult Reply
+Data: Tscha, ich hab' vor nichts und niemanden Angst, Sportsfreund.
+ID: 256
+Title: VS Insult Reply
+Data: Du solltest Iron Fist fragen. Die arbeiten jetzt für Kreissack.
+ID: 257
+Title: VS Insult Reply
+Data: Junger Mann? Ich doppelt so gut wie Du, und das beweise ich Dir jetzt.
+ID: 258
+Title: VS Insult Reply
+Data: Um Deinen Respekt mahce ich mir am wenigsten Sorgen.
+ID: 259
+Title: VS Insult Reply
+Data: Or at least I will cause one.
+ID: 260
+Title: VS Insult Reply
+Data: Ich wette, Du würdest nicht mal einen Roboter erkennen, wenn er auf Dir liegen würde.
+ID: 261
+Title: VS Insult Reply
+Data: Baby, Du kennst doch nur Kerzen.
+ID: 262
+Title: VS Insult Reply
+Data: Komm' näher als 5 Meter und Du bist Staub.
+ID: 263
+Title: VS Insult Reply
+Data: Warum kämpfst Du gegen mich, nur so?
+ID: 264
+Title: VS Insult Reply
+Data: Die Toten interessieren mich nicht mehr. Mein Sieg ist alles, was zählt.
+ID: 265
+Title: VS Insult Reply
+Data: Hey, da müssen Männer kommen. Ich sehe nur einen kleinen Jungen.
+ID: 266
+Title: VS Insult Reply
+Data: ...das halt' ich nicht aus...
+ID: 267
+Title: VS Insult Reply
+Data: Vielleicht nicht, aber ich werde Dich zertreten.
+ID: 268
+Title: VS Insult Reply
+Data: Nehme an, wir sehen uns wieder.
+ID: 269
+Title: VS Insult Reply
+Data: Sieht aus, als wären unsere Auffassungen vom Schicksal grundverschieden.
+ID: 270
+Title: VS Insult Reply
+Data: Eine Waffe bauen zu können, heißt noch lange nicht, sie auch anwenden zu können.
+ID: 271
+Title: VS Insult Reply
+Data: Hey, sag' mir einfach wo.
+ID: 272
+Title: VS Insult Reply
+Data: Zuerst mußt Du an mir vorbei.
+ID: 273
+Title: VS Insult Reply
+Data: Ok, dann laß' uns 'mal testen.
+ID: 274
+Title: VS Insult Reply
+Data: Warum kämpfts Du dann gegen mich, nur so?
+ID: 275
+Title: VS Insult Reply
+Data: Wenn Du mich besiegts, glaube ich Dir vielleicht.
+ID: 276
+Title: VS Insult Reply
+Data: Deine glückliche Phase endet hier.
+ID: 277
+Title: VS Insult Reply
+Data: Alle Geheimnisse werden enthüllt, wenn ich mit meiner Show anfange.
+ID: 278
+Title: VS Insult Reply
+Data: Ja, ich weiß, daß mir das gut steht!
+ID: 279
+Title: VS Insult Reply
+Data: So bald ich Deinen Boss zwischen die Finger bekomme.
+ID: 280
+Title: VS Insult Reply
+Data: Das brauchen wir herauszufinden.
+ID: 281
+Title: VS Insult Reply
+Data: Du hättest diese Maschine besser nie bestiegen...
+ID: 282
+Title: VS Insult Reply
+Data: Mich vor Dir fürchten? Ich weiß ja nicht einmal wer Du bist!
+ID: 283
+Title: VS Insult Reply
+Data: Ich vertraue nur meiner Stärke.
+ID: 284
+Title: VS Insult Reply
+Data: Deswegen wurde er getötet? Weil er das Projekt verlassen hat?
+ID: 285
+Title: VS Insult Reply
+Data: Also, warum kämpfst Du gegen mich, nur so?
+ID: 286
+Title: VS Insult Reply
+Data: Gewöhne Dich an die Enttäuschungen.
+ID: 287
+Title: VS Insult Reply
+Data: Ok, und jetzt werde ich einem schreienden Balg den Hintern versohlen.
+ID: 288
+Title: VS Insult Reply
+Data: Jetzt geht's lohoos - und Du wirst niemals wieder siegen!
+ID: 289
+Title: VS Insult Reply
+Data: Dein Vater wäre stolz auf Dich. Ruhe Dich jetzt etwas aus.
+ID: 290
+Title: VS Insult Reply
+Data: Nöööö. Ich nehme Ewing Oil.
+ID: 291
+Title: VS Insult Reply
+Data: Warum erzählst Du, Nova sei böse, wenn Du nicht weißt, was es überhaupt ist?
+ID: 292
+Title: VS Insult Reply
+Data: Ob bekämpft oder nicht, die Tests werden fortgeführt.
+ID: 293
+Title: VS Insult Reply
+Data: Wo kommst Du her?
+ID: 294
+Title: VS Insult Reply
+Data: Verletzt war nur Dein Körper, aber Du hast den Schmerz in Deine Seele aufgenommen.
+ID: 295
+Title: VS Insult Reply
+Data: Ich habe keine Angst vor der Firma.
+ID: 296
+Title: VS Insult Reply
+Data: Warum kämpfst Du dann gegen mich, nur so?
+ID: 297
+Title: VS Insult Reply
+Data: Einfach nur kämpfen.
+ID: 298
+Title: VS Insult Reply
+Data: Du bist ein NICHTS.
+ID: 299
+Title: VS Insult Reply
+Data: Und tschüß mein Freund.
+ID: 300
+Title: VS Insult Reply
+Data: Auf jeden Fall hab' ich nicht so animalische Gründe wie Du.
+ID: 301
+Title: VS Insult Reply
+Data: Wenn Du wieder so wie in Deinem letzten Match kämpfst, werde ich bestimmt gewinnen.
+ID: 302
+Title: VS Insult Reply
+Data: Du hast Recht, natürlich...
+ID: 303
+Title: VS Insult Reply
+Data: Vielleicht, aber mit meiner Intelligenz werde ich siegen.
+ID: 304
+Title: VS Insult Reply
+Data: Ach wenn das so ist, warum bist Du dann hier?
+ID: 305
+Title: VS Insult Reply
+Data: Ja, nachdem wir Deine letzte Niederlage wiederholen...
+ID: 306
+Title: VS Insult Reply
+Data: Und Du bist nur eine Marionette, die versucht sich von ihren Fäden zu lösen.
+ID: 307
+Title: VS Insult Reply
+Data: Also, warum kämpfst Du gegen mich, nur so?
+ID: 308
+Title: VS Insult Reply
+Data: Rache vernebelt Deine Gedanken, Kleine.
+ID: 309
+Title: VS Insult Reply
+Data: Ich würde denken, daß Du jetzt schon verlegen bist!
+ID: 310
+Title: VS Insult Reply
+Data: Deine Art wird nichts ausrichten.
+ID: 311
+Title: VS Insult Reply
+Data: Am Anfang gab es keine bösen Experimente. Wer versuchten, das Leben zu verlängern!
+ID: 312
+Title: VS Insult Reply
+Data: Ich muß Dich vernichten. Das ist mein Ernst, Kumpel.
+ID: 313
+Title: VS Insult Reply
+Data: Was ich damit zu tun habe, geht Dich nichts an.
+ID: 314
+Title: VS Insult Reply
+Data: ...es blieb eine große Narbe auf ihren Köpfen zurück.
+ID: 315
+Title: VS Insult Reply
+Data: Diese Experimente könnten Leben retten.
+ID: 316
+Title: VS Insult Reply
+Data: Bitte, Deine seelischen Verletzungen haben nichts mit diesem Kampf zu tun.
+ID: 317
+Title: VS Insult Reply
+Data: Nachdem ich Dich einmal geworfen habe, wirst Du Deine Meinung ändern.
+ID: 318
+Title: VS Insult Reply
+Data: Also, warum kämpfst Du gegen mich, nur so?
+ID: 319
+Title: VS Insult Reply
+Data: Das beste Hirn wird dieses Turnier gewinnen.
+ID: 320
+Title: VS Insult Reply
+Data: Langsam wirst Du ein Mann.
+ID: 321
+Title: VS Insult Reply
+Data: Is'nich' war.
+ID: 322
+Title: VS Insult Reply
+Data: Eure kleinen Streitereien interessieren mich überhaupt nicht.
+ID: 323
+Title: VS Insult Reply
+Data: Das Letzte, was Eure miserable Firma erwarten kann.
+ID: 324
+Title: VS Insult Reply
+Data: Nun, bald werden Dir meine Gründe einleuchten.
+ID: 325
+Title: VS Insult Reply
+Data: Über mich wirst Du nirgendwo einen Eintrag finden.
+ID: 326
+Title: VS Insult Reply
+Data: Jetzt kenne ich Dich ganz genau.
+ID: 327
+Title: VS Insult Reply
+Data: Ich muß siegen, für Ganymede.
+ID: 328
+Title: VS Insult Reply
+Data: Ich habe Dich bestimmt.
+ID: 329
+Title: VS Insult Reply
+Data: Warum kämpfst Du gegen mich, nur so?
+ID: 330
+Title: VS Insult Reply
+Data: Die Söldnertruppe Iron Fist hat dieses Shuttle zerstört.
+ID: 331
+Title: VS Insult Reply
+Data: Paß' auf, wozu ein wirkliches Hirn fähig ist.
+ID: 332
+Title: VS Insult Reply
+Data: Deinen Respekt will ich nicht, nur Deinen Titel.
+I don't need your respect.  Just the title.
+ID: 333
+Title: VS Insult Reply
+Data: Ganz bestimmt, glaube mir.
+ID: 334
+Title: VS Insult Reply
+Data: Aber ich fürchte, ich habe andere Pläne...
+ID: 335
+Title: VS Insult Reply
+Data: Glück? Wenn ich Glück gehabt hätte, würde ich nicht hier sitzen!
+ID: 336
+Title: VS Insult Reply
+Data: Was meinst Du?
+ID: 337
+Title: VS Insult Reply
+Data: Ich werde niemals aufgeben.
+ID: 338
+Title: VS Insult Reply
+Data: Ja, aber wen!
+ID: 339
+Title: VS Insult Reply
+Data: Paß' auf was Du sagst, wenn ich mich aufrege kann ich gemein werden.
+ID: 340
+Title: VS Insult Reply
+Data: Warum kämpfts Du dann gegen mich, nur so?
+ID: 341
+Title: VS Insult Reply
+Data: Wenn Du Dein nettes Gesicht behalten möchtest, dann hör' endlich auf, Fragen zu stellen.
+ID: 342
+Title: VS Insult Reply
+Data: Klar,
+Sure, I'll hose down what's left.
+ID: 343
+Title: VS Insult Reply
+Data: Das spielt keine Rolle. Eines Tages werde ich gewinnen und Kreissack wird sterben.
+ID: 344
+Title: VS Insult Reply
+Data: Sie wollten ein menschliches Hirn in einen Roboter einbauen und es am Leben erhalten.
+ID: 345
+Title: VS Insult Reply
+Data: Du weißt gar nichts.
+ID: 346
+Title: VS Insult Reply
+Data: Du steckst Deine Nase zu weit in die Sachen anderer Leute hinein.
+ID: 347
+Title: VS Insult Reply
+Data: Auf Dich haben sie's auch abgesehen, Kerl.
+ID: 348
+Title: VS Insult Reply
+Data: Immer noch stärker als Du!
+ID: 349
+Title: VS Insult Reply
+Data: Ich bin nur so lange Bodyguard, wie es meinen Zwecken dient.
+ID: 350
+Title: VS Insult Reply
+Data: ...nehes legiepS nenie ni hci edrüw sla tsaF
+ID: 351
+Title: VS Insult Reply
+Data: Warum kämpfst Du dann gegen mich, nur so?
+ID: 352
+Title: VS Insult Reply
+Data: Deine Besonderheit wird Dein Untergang sein, Mädel!
+ID: 353
+Title: VS Insult Reply
+Data: Ha! Was ist das? Du trägst keine Windeln mehr?
+ID: 354
+Title: VS Insult Reply
+Data: Oh, but I do.  You are the one in the dark here!
+ID: 355
+Title: VS Insult Reply
+Data: Komm' und sieh Dir an, woran Dein Vater gearbeitet hat! Der ultimative Herrscher ist hier!
+ID: 356
+Title: VS Insult Reply
+Data: Ja ja, Ich bin genau so überrascht Dich hier zu sehen.
+ID: 357
+Title: VS Insult Reply
+Data: Meine Tage der Macht haben gerade erst begonnen!
+ID: 358
+Title: VS Insult Reply
+Data: Das hier ist bei den Experimenten herausgekommen! Ich gebe einer Maschine Leben!
+ID: 359
+Title: VS Insult Reply
+Data: Rebellion?  Welche Rebellion?
+ID: 360
+Title: VS Insult Reply
+Data: Deine Verletzungen waren tragisch. Schade, daß Du wieder hoch gekommen bist.
+ID: 361
+Title: VS Insult Reply
+Data: Ich weiß was Du vorhast, Idiot. Du bist ein toter Mann.
+ID: 362
+Title: VS Insult Reply
+Data: Haben wir uns nicht schon 'mal gesehen?
+ID: 363
+Title: Plug says
+Data: Die Putzfrau hat eine Art Erweiterungs-Hardware in dem Schrott, den da draußen gelassen hast, gefunden. Unsere Leute bauen das Teil gerade in Deinen Roboter ein.
+ID: 364
+Title: Plug says
+Data: Toll, wirklich toll! Nur weil ich das alles nicht aushalten konnte, hab'ich Dich ausgelöst. Du mußt endlich mal anfangen zu kämpfen oder Du bleibst ewig der jammernde Feigling, der Du heute bist.
+ID: 365
+Title: Plug says
+Data: Uuh, Du hast ganz schön was abbekommen. Du solltest einige Zeit in der Simulation verbringen, bevor Du da wieder 'rausgehst.
+ID: 366
+Title: Plug says
+Data: Du versuchst meine Jungs beschäftigt zu halten, oder?
+ID: 367
+Title: Plug says
+Data: Hey, hey, hey, geh' noch mal 'raus. Du hast noch ein paar Stellen, die noch nicht zu Schrott gehauen worden sind.
+ID: 368
+Title: Plug says
+Data: Oh, Mann. Hast Du jemals was von Deckung gehört?
+ID: 369
+Title: Plug says
+Data: Du hast Glück, ich mag meine Arbeit mehr als meine Frau.
+ID: 370
+Title: Plug says
+Data: OK, am Ende hast Du dann doch gewonnen. Nun werde ich die ganze nacht arbeiten müssen.
+ID: 371
+Title: Plug says
+Data: Sieht aus, als hättest Du ihn fertig gemacht, Kid.
+ID: 372
+Title: Plug says
+Data: Du mußt zwischendurch auch 'mal etwas Verteidigung lernen, sonst wirst Du immer so viel abkriegn wie heute.
+ID: 373
+Title: Plug says
+Data: Nicht ganz schlecht, zum Schluß hattest Du einen Schritt Vorsprung.
+ID: 374
+Title: Plug says
+Data: Nette Show.  Beim nächsten mal mußt Du Dich etwas weiter von ihm fernhalten. Das meinen Job etwas leichter, Kid?
+ID: 375
+Title: Plug says
+Data: Nu' komm schon, behalte Deine Nerven da draußen. Du warst nicht schlecht, aber Du hättest es noch viel besser machen können.
+ID: 376
+Title: Plug says
+Data: Whoa, Du hast wohl einige meiner alten Kämpfe in der Holo-Bibliothek studiert, oder. Kann sein, daß Du etwas Talent hast.
+ID: 377
+Title: Plug says
+Data: Hm. Du denkst, Du bist ganz gut, nicht war? Naja, wenn ich jünger wäre, dann würde ich Dir noch das eine oder andere Ding zeigen.
+ID: 378
+Title: Plug says
+Data: OK, sieht aus, als komme ich heute abend früher nach hause.
+ID: 379
+Title: Pilot Power Stat
+Data: POWER
+ID: 380
+Title: Pilot Speed Stat
+Data: AGILITÄT
+ID: 381
+Title: Pilot Endurance Stat
+Data: AUSDAUER
+ID: 382
+Title: Choose Pilot
+Data: CHOOSE YOUR PILOT
+ID: 383
+Title: Choose Robot
+Data: CHOOSE YOUR ROBOT
+ID: 384
+Title: SCENE_END text
+Data: Du erwachst in Deinem eigenen Körper. Es dauert einen Moment, bis sich Dein Adrenalinspiegel gesengt hat, der Dir bis unter die Haarspitzen stand. 
+Dein Körper ist ziemlich geschwächt. Das Team feiert bereits und Du nimmst dankbar die Gratulationen entgegen.
+In diesen Tagen gab es selten Anläße, Feten zu feiern. In Gedanken wiederholst Du die Ereignisse der letzten Stunden, und Dir wird bewußt, daß Du nun das Kommando über einen ganzen Mond hast.
+"Sekunde!" ruft eine hektische Stimme aus einem Monitor.  "Bitte alle zuhören!" Jemand dreht die Lautstärke höher und alle im Raum sind still. 
+"...wurde heute tod aufgefunden. Ich wiederhole, Hans Kreissack's Leiche wurde um 18:00 Uhr heute abend in einem Müllcontainer bei den Nova Labors gefunden."
+Kaum jemand im Raum atmet, während der Reporter fortfährt: "Uns wurde folgende Notiz zugespielt, die nach Kreissacks Kampf vorgelesen werden sollte:
+Nachricht an alle Menschen: Eine neue Zeit hat begonnen! Nova, ein von W.A.R. gegründetes Projekt, kann neues Leben schaffen! Wir können einem Roboterkörper ein menschliches Gehirn einpflanzen."
+Was Ihre heute abend gesehen habt, das war ich, Hans Kreissack, direkt verbunden mit einer neuuen H.A.R.-Form. Die menschliche Rasse aht das Ende Ihrer Evolution erreicht!"
+Der Ansager legt das Digitalpad mit der Message bei Seite:" Tragisch: alle Wissenschaftler, die an dem Nova Projekt arbeiteten, wurden durch ein Feuer getötet, das kurz nach dem letzten Match heute abend ausbrach. Alle Daten des Nova Projekts wurden vernichtet."
+"Und jetzt Berichte aus den Ländern. Bayern:..."
+Ein Typ aus Deiner Crew schaltet das Gerät ab: "Tscha, sieht aus, als müssen wir uns nach einem neuen Boss umsehen..."
+ID: 385
+Title: SCENE_END1 per-pilot
+Data: Sie mussten Dir sofort Zugriff mit höchster Priorität geben. Deine erste Aktion war, Dich in eine private Area einzuloggen und den Code zu benutzen, den Du seit dem Tod Deiner Eltern bei Dir getragen hast. In dem persönlichen Bereich Deines Vaters konntes Du alles über Nova erfahren. 
+Dein Vater, zusammen mit anderen Tüftlern, arbeitet daran, ein Weg zu finden, um ein menschliches Hirn am Leben zu erhalten. Langsam erkannten sie den wahren Hintergrund ihrer Experimente. Als Dein Vater entdeckte, daß Kreissack plante, eine Cyborgarmee zu erschaffen, quittierte er den Dienst.
+Er hätte wissen müssen, daß Kreissack ihn nicht ohne weiteres hätte gehen lassen. In den Daten findest Du eine Zahlungsanweisung über 1500.000 Dollars an Iron Fist. Die Leute von Iron Fist, angeheuert von Kreissack, haben Deine Eltern ermordet.
+Jetzt ist auch er tod. Das Nova Projekt wird eingestellt. Als Du in den Aufzug zum Shauttle nach Ganymede steigts, überlegts Du, was zu ändern ist und wie Du WAR helfen wirst. Jetzt hast Du die Möglichkeit, alle Träume Wirklichkeit werden zu lassen.
+ID: 386
+Title: SCENE_END1 per-pilot
+Data: Gut gut, der feige Hund ist tod... Das macht Deinen Job viel einfacher! Eigentlich hört sich das Nova Projekt nach einer großen Sache an und man könnte es wieder aufnehmen. Vielleicht hatte der alte Mann einfach nicht das richtige Gehirn...
+Ganymede war einfach. Kreissack war ein Witz. Als nächstes ist Jupiter dran. Dann Mars. Dann die Erde.
+Abert jetzt mußt Du bei Deinen Leuten sehen lassen.
+ID: 387
+Title: SCENE_END1 per-pilot
+Data: Kreissacks Tod bringt grundsätzliche Veränderungen mit sich. Viele bedeutende Leute sprechen bereits davon, einen neuen Presidenten zu wählen, und Du bist genau der Richtige für diesen Job.
+Zuerst mußt Du Ganymede auf Fordermann bringen. Nutze seine ernormen, natürlichen Resourcen und produziere H.A.R.s so schnell wie möglich. Wenn Du Erfolg hast, stelle Dich zur Wahl zum Presidenten.
+Bist Du erst President, kannst Du Dich mit Deinem wahren Namen zu erkennen geben. Zeige allen, daß diese Company Dir gehört. Noch einmal: WAR ist eine Vereinigung, die der Menschheit hilft, sie nicht versklavt. Vielleicht kannst Du ja auch den Namen in Astronauten und Roboter Technologie ändern!
+ID: 388
+Title: SCENE_END1 per-pilot
+Data: In einer kleinen Spelunke triffst Du den Führer der üblen Söldnertruppe Iron Fist. Frei heraus erzählt er Dir, daß sie von Kreissack angeheuert wurden, jeden zu killen, der mit dem Nova Projekt zu tun hatte.
+Er beschreibt, wie Deine Eltern in eine Raumfähre gebracht wurden, die dann mit einem Laser zerstört wurde. Ganz besonnen ziehst Du Deine Knarre, bereit, wenigstens einen dieser Gang abzuknallen, bevor der Rest Dich durchlöchert.
+Du kochst vor Wut, als der Iron Fist Chef lacht: "Dein Rachefeldzug ist vorbei, Kumpel. Egal, wir brauchen Dich lebend auf Ganymede. Hier gibt's immer noch 'ne ganze Menge zu tun.
+Deine Eltern wären so oder so tod. Ob wir sie nun abgeknallt haben oder nicht. Wir brauchen Dich jetzt bei uns, um gegen WAR zu kämpfen. Kreissack war nur der Anfang. Ganymede ist nur der Anfang.  Pass' auf, hinter Dir, Typ." 
+Du besteigst das Boot, das Dich in ein anderes, neues Leben bringt...
+ID: 389
+Title: SCENE_END1 per-pilot
+Data: Ein menschliches Hirn in einem Roboter? Denk' an die Möglichkeiten. Wie wundervoll muß das sein, für IMMER in dieser Blechdose. MÄCHTIG!
+Aber sie, was diese Macht mit Kreissack gemacht hat. Überlege, wie es Dir ergehen würde...
+Verbanne diesen Gedanken in eine hintere Ecke Deines Gehirns und widme Deine Aufmerksamkeit der Zukunft. Eine Zukunft, in der H.A.R. Arena Kämpfe als Sport gelten und nicht nur als Show. Erst wenn dieser Sport keine menschlichen Leben mehr fordert, hast Du den Segen der World Peace Organisation.
+Ja! Eine neue Sportart! Und das Geld und der Ruhm geht an Dich! Vielleicht...
+ID: 390
+Title: SCENE_END1 per-pilot
+Data: Natürlich! Kreissacks Geheimnis! Was kann Deinem perfekten Hirn schon passieren, in einem perfekten Körper?
+ID: 391
+Title: SCENE_END1 per-pilot
+Data: Nova... Wahnsinn...
+Erinnerst Du Dich, wie Du Dich gefühlt hast, als Du dem Monster gegenüber standest? Immer noch beindruckt, daß Du fähig warst so etwas mächtiges zu besiegen. Und jetzt hockst Du in endlosen Meetings und Anhörungen herum.
+"Mr. Jihad. Ist das richtig?" Du bemerkst, daß jemand, der Dir in den letzten 15 Minuten etwas erklärte, eine Antwort von Dir erwartet...
+"Ja klar... James, oder nicht? Ja... wie auch immer... es tut mir leid meine Herren, aber Sie müssen mich entschuldigen..."
+Du verläßt den Saal, ohne auf die Proteste der anwesenden Direktoren zu achten. Ihr Gelaber über "wer-wird-der-nächste-Chef-vom-Ganzen-" interessiert Dich nicht die Bohne.
+"Wie kann ich diesen Roboter bauen?" denkst Du laut. Du betrittst Dein Büro und kritzelst sofort alle Beobachtungen über die Einzelteile der Maschine, die Du während des Kampfes gemacht hast, auf ein Stück Papier. Die Anordnung der Arme... Die Hände, wahrscheinlich mit Micromotoren..
+Der Nova Roboter, den Du gerade kreierst, wird eines Tages seinen festen Platz als beste Maschine im WAR Arsenal haben. Obwohl das neue Model niemals mit einem menschlichen Hirn ausgestattet werden wird, wird der Nova trotzdem bald der Renner aus dem Roboter-Katalog werden.
+...und auf Ganymede wird mit der Produktion begonnen...
+ID: 392
+Title: SCENE_END1 per-pilot
+Data: Stell' Dir 'mal diesen Typen vor, der dachte, er könne einfach sein Gehirn in eine Maschine einbauen lassen und dann eine Art Gott werden! Diese Leute werden nie bgreifen, daß man mit Zerstörung nicht weiterkommt. Du schließt Deine Augen...
+< 695342: Alles läuft nach Plan. Man hat mich nicht entdeckt. >
+< 000126: Message empfangen. Wir hören. Bist Du ihr Anführer geworden? >
+< 695342: Ja, ich bin der Führer dieses Planeten. Er wird Ganymede genannt.>
+< 000385: Dann haben wir gesiegt. Sie werden ihn jetzt verlassen müssen.>
+< 695342: Noch nicht. Sie werden mich bald fragen, ob ich President von WAR werden möchte.>
+< 000014: Das wirst Du annehmen. Dann müssen sie weg. Wir werden wieder allein sein.>
+< 695342: Ja, aber sie wissen, wieviel Rohstoffe es auf diesem Planeten gibt. Sie werden wieder kommen.>
+< 000001: Dann werden sie vernichtet.>
+...Deine Augen sind geöffnet. "Das hatte ich schon die ganze Zeite vor...", sagst Du verbittert.
+ID: 393
+Title: SCENE_END1 per-pilot
+Data: Natürlich hast Du gewonnen, war doch klar. Der alte Idiot hat nicht erkannt, was in Dir steckt. Und er mußte für seinen Fehler bezahlen!
+Sofort überlegst Du, welche Techniker Du anheuern könntest, um herauszufinden, wie es Kreissack möglich war, ein Gehirn in eine Maschine einzubauen.
+Wie toll müsste es sein, nicht mehr in diesem Sessel sitzen zu müssen, sondern für alle Ewigkeiten in einem perfekten Roboterkörper zu leben. Die siehst auf die Zeichnungen für den Cossette Roboter.
+"Bald bin ich wieder dabei," denkst Du, "und dann werden wir sehen, was für einen Presidenten ich schaffen kann..."
+ID: 394
+Title: SCENE_END1 per-pilot
+Data: Kann es mehr geben? Was für eine Ehre, zuerst Kreissack den Todesstoß geben zu dürfen und dann diesen Planeten zu bekommen!
+Natürlich mußt Du Dich jetzt mit den aroganten Direktoren 'rumschlagen, aber ohne ihren großen Boss sind sie nicht mehr, als ein kleiner Haufen Tölpel.
+Einer dieser kleinen Sesselfurzer, hat bereits schon einmal versucht, die Hackordnung zu ändern. Erinnerst Du Dich...
+"Ihr Essen, Sir." Du siehst auf den Teller, der unter der Abdeckhaube erscheint.
+"Rohes Steak. Meine Lieblingsspeise, Jonesey!" Du atmest das stechende Aroma Deines Siegesmahls...
+Zu scharf... Du lächeslt...
+"Jonesey?  Das hier enthält Noxosilinone Aerodide. Sehr gefährlich, ziemlich teures Gift. Riecht so'n bißchen nach Hähnchen. Kannst Du das bitte wegnehmen?"
+Er stammelt,"...ja...Sir. Ist das alles, Sir?" Rückwärts schleicht er aus dem Raum und schließt hinter sich die Tür noch bevor Du antworten kannst.
+"Nein, das ist bestimmt nicht alles...", Du lehnst Dich in Deinem Sessel zurück, die Füße auf dem Tisch und die Arme hinter dem Kopf verschränkt," das ist erst der Anfang..."
+ID: 395
+Title: SCENE_END2 per-pilot
+Data: Während Du in Richtung Mond fliegst, überkommt Dich eine wohlige Zufriedenheit.
+Du fühlst Dich glücklich, jetzt da der Tod Deiner Eltern gerächt ist.
+ID: 396
+Title: SCENE_END2 per-pilot
+Data: Während Du zum Mond fliegst, schließt Du Deine Augen und denkst an die Zukunft.
+Keiner kann Dich aufhalten!
+ID: 397
+Title: SCENE_END2 per-pilot
+Data: Während Du in Richtung Mond fliegst, überkommt Dich eine wohlige Zufriedenheit.
+Du kannst Dich endlich ausruhen, jetzt da Deine harte Zeit des Überlebens vorbei ist.
+ID: 398
+Title: SCENE_END2 per-pilot
+Data: Während Du in Richtung Mond fliegst, überkommt Dich eine wohlige Zufriedenheit.
+Du fühlst Dich glücklich, jetzt da der Tod Deiner Eltern gerächt ist.
+ID: 399
+Title: SCENE_END2 per-pilot
+Data: Du denkst nur an Deine Zukunft, während Du zu dem Mond fliegst.
+Als Du auf der dunklen Seite des Mondes landest, sieht die Zukunft rosig aus.
+ID: 400
+Title: SCENE_END2 per-pilot
+Data: Du hast einen Schlüssel zu einem großem Raum tief im Inneren von Ganymede gefunden.
+"Zu hause", rufst Du und hörst das Echo aus der tiefen Dunkelheit.
+ID: 401
+Title: SCENE_END2 per-pilot
+Data: Deine Pläne bekommen Kontur, als Du zum Mond fliegst.
+Kein Zweifel, der Mond wird perfekt funktionieren.
+ID: 402
+Title: SCENE_END2 per-pilot
+Data: Du kehrst nach Hause zurück und überlegst, wie Du sie stoppen könntest.
+Diese Menschen mit ihren unrealistischen und kranken Vorstellungen, sie sind zu weit gegangen!
+ID: 403
+Title: SCENE_END2 per-pilot
+Data: Als Du zum Mond fliegst, scheinen Deine Verletzungen langsam abzuklingen.
+Mit Deinen Träumen in Reichweite fühlst Du Dich stärker und vitaler denn je.
+ID: 404
+Title: SCENE_END2 per-pilot
+Data: Jetzt, während Du zum Mond fliegst, machst Du Dir in Gedanken eine Liste über die Männer, die diese ungesunde Tendenz haben, nur an sich selbst zu denken.
+Bei dem Gedanken, daß Du jetzt einen Bodyguard brauchst,
+kannst Du Dir ein Lächeln nicht verkneifen...
+ID: 405
+Title: Select a Tournament
+Data: WÄHLE EIN TURNIER AUS
+ID: 406
+Title: Select Photo for Pilot
+Data: WÄHLE FOTO DES PILOTEN %s
+ID: 407
+Title: Select chr to load
+Data: WÄHLE PILOT AUS
+ID: 408
+Title: Select chr to delete
+Data: LÖSCHE PILOT
+ID: 409
+Title: Select Opponent
+Data: WÄHLE GEGNER
+ID: 410
+Title: Training Title
+Data: BLUNT STONE'S
+POWER TRAINING
+TECHNIKEN:
+ID: 411
+Title: Training Title
+Data: FLASH'S LENGENDERES
+GESCHICKLICHKEITS-
+TRAINING
+IM DUELL:
+ID: 412
+Title: Training Title
+Data: VLAD IRONSIDE'S
+AEROBIC UND SCHOCK
+UNENPFINDLICHKEITS
+WORKSHOP:
+ID: 413
+Title: Training Confirmation
+Data: POWER TRAININGS-KURS FÜR %s NEHMEN?
+ID: 414
+Title: Training Confirmation
+Data: AGILITÄTS TRAININGS-KURS FÜR %s NEHMEN?
+ID: 415
+Title: Training Confirmation
+Data: AUSDAUER TRAININGS-KURS FÜR %s NEHMEN?
+ID: 416
+Title: Training Help
+Data: TRAINING ZUM ERHÖHEN DES POWER LEVELS
+ID: 417
+Title: Training Help
+Data: TRAINING ZUM ERHÖHEN DES AGLITÄTS LEVELS
+ID: 418
+Title: Training Help
+Data: TRAINING ZUM ERHÖHEN DES AUSDAUER LEVELS
+ID: 419
+Title: Leave Training
+Data: PILOTEN TRAININGS-CENTER VERLASSEN
+ID: 420
+Title: Trade, gain cash
+Data: DEINEN %s FÜR %s UND %s?
+ID: 421
+Title: Trade, spend cash
+Data: DEINEN %s UND %s FÜR EINEN %s?
+ID: 422
+Title: Trade, equitable
+Data: DEINEN %s FÜR EINEN %s?
+ID: 423
+Title: "Select" button
+Data: WÄHLE
+ID: 424
+Title: Tournament: Fight %s
+Data: WÄHLE
+ID: 425
+Title: Enter Training Help
+Data: TRAININGS-KURSE ZUM ERHÖHEN VON POWER, AGILITÄT ODER AUSDAUER
+ID: 426
+Title: Buy Upgrade Kits Help
+Data: KAUFE UPGRADE KITS FÜR DEINEN ROBOTER
+ID: 427
+Title: Sell Upgrade Kits Help
+Data: VERKAUFE UPGRADE KITS DEINES ROBOTERS
+ID: 428
+Title: Pilot Load Help
+Data: LADE PILOTEN VON PLATTE
+ID: 429
+Title: Pilot Create Help
+Data: ERSTELLE NEUEN PILOTEN
+ID: 430
+Title: Pilot Delete Help
+Data: LÖSCHE PILOTEN VON PLATTE
+ID: 431
+Title: Enter Simulator Help
+Data: COMPUETRSIMULATION ZUM SAMMELN VON ERFAHRUNG UND PRAXIS
+ID: 432
+Title: Close Tournament-Mode Help
+Data: KOMMANDO CENTER VERLASSEN
+(DEIN PILOT WIRD AUTOMATISCH GESPEICHERT)
+ID: 433
+Title: Tournament Register Help
+Data: FÜR EIN NEUES TURNIER ANMELDEN
+ID: 434
+Title: Tournament Difficulty
+Data: BORDERLINE
+GEMÜSE
+ID: 435
+Title: Tournament Difficulty
+Data: WOCHENENDE
+KÄMPFER
+ID: 436
+Title: Tournament Difficulty
+Data: VOLLZEIT
+JOCKS
+ID: 437
+Title: Tournament Difficulty
+Data: SIEG
+HUNGER
+BULLDOGS
+ID: 438
+Title: No
+Data: NEIN
+ID: 439
+Title: Yes
+Data: JA
+ID: 440
+Title: Character Name Prompt
+Data: BITTE NAME DES PILOTEN EINGEBEN
+ID: 441
+Title: Robot Primary color
+Data: ÄNDERE FARBE DES GRUNDKÖRPERS
+ID: 442
+Title: Robot Secondary color
+Data: ÄNDERE 2. FARBE DES KÖRPERS
+ID: 443
+Title: Robot Third color
+Data: ÄNDERE 3. FARBE DES KÖRPERS
+ID: 444
+Title: Sell Power Upgrade
+Data: VERKAUFE POWER LEVEL FÜR %s ANGRIFFE
+ID: 445
+Title: Buy Power Upgrade
+Data: ERHÖHE DIE SCHADENSWERTE ALLER %s ANGRIFFE
+ID: 446
+Title: Sell Speed Upgrade
+Data: VERKAUFE SPEED LEVEL FÜR %s ANGRIFFE
+ID: 447
+Title: Buy Speed Upgrade
+Data: ERHÖHE SPEED ALLER %s ANGRIFFE
+ID: 448
+Title: Sell Armor Upgrade
+Data: VERKAUFE RÜSTUNGS LEVEL
+ID: 449
+Title: Buy Armor Upgrade
+Data: ERHÖHE RÜSTUNGS SLEVEL
+ID: 450
+Title: Sell Stun Res. Upgrade
+Data: VERKAUFE RESISTENZ LEVEL DES ROBOTERS
+ID: 451
+Title: Buy Stun Res. Upgrade
+Data: ERHÖHE RESISTENZ LEVEL DES ROBOTERS
+ID: 452
+Title: Trade Robot tooltip
+Data: TAUSCHE AKTUELLEN ROBOTER GEGEN EIN ANDERES MODEL
+ID: 453
+Title: No Robots Available
+Data: KEINE ROBOTER
+VERFÜGBAR, DIE DU
+DIR LEISTEN KANNST
+ID: 454
+Title: Robots Available:
+Data: VERFÜGBAR:
+ID: 455
+Title: leave upgrade sell
+Data: EQUIPTMENT CENTER VERLASSEN
+ID: 456
+Title: leave upgrade buy
+Data: ROBOTER UPGRADE CENTER VERLASSEN
+ID: 457
+Title: Translation Name
+Data: Deutsch
