@@ -1,0 +1,1521 @@
+ID: 0
+Title: Pilots
+Data: Krystal
+ID: 1
+Title: Pilots
+Data: Steffan
+ID: 2
+Title: Pilots
+Data: Milano
+ID: 3
+Title: Pilots
+Data: Christian
+ID: 4
+Title: Pilots
+Data: Shirro
+ID: 5
+Title: Pilots
+Data: Jean-Paul
+ID: 6
+Title: Pilots
+Data: Ibrahim
+ID: 7
+Title: Pilots
+Data: Angel
+ID: 8
+Title: Pilots
+Data: Cossette
+ID: 9
+Title: Pilots
+Data: Raven
+ID: 10
+Title: Pilots
+Data: Major Kreissack
+ID: 11
+Title: Pilot Biography
+Data: Tvunget til at klare sig selv efter hendes forældres mystiske dod, har Crystals beslutsomhed opnået stor respekt.
+ID: 12
+Title: Pilot Biography
+Data: Selvom han er den yngste konkurrent i turneringens historie, kæmper Stoffan med dygtighed ud over sine år.
+ID: 13
+Title: Pilot Biography
+Data: Rekrutteret af Raven for hans fremragende kickboxing færdigheder, Milanos hastighed og fingerfærdighed er legendariske.
+ID: 14
+Title: Pilot Biography
+Data: Christians aggressive stil rammer frygt i konkurrenternes sind og begær i mange unge kvinders hjerter.
+ID: 15
+Title: Pilot Biography
+Data: I lobet af sine mange års konkurrence har Shirro udviklet uovertruffen magt, men bevarer en ungdommelig sans for humor.
+ID: 16
+Title: Pilot Biography
+Data: Hans beregnende og luskede natur sammen med velafrundede evner skræmmer ofte Jean-Pauls modstandere.
+ID: 17
+Title: Pilot Biography
+Data: En pensioneret triatlet, Ibrahims tålmodighed og ærlighed har gjort ham til en værdsat mentor for mange håbefulde konkurrenter.
+ID: 18
+Title: Pilot Biography
+Data: Angels fortid er indhyllet i mystik.  Bortset fra hendes reclusive disposition og stærke vilje, er lidt kendt om hende.
+ID: 19
+Title: Pilot Biography
+Data: En veteran fighter, Cossette er blevet forsigtig, defensiv og bitter efter at være blevet forkroblet i arenaen.
+ID: 20
+Title: Pilot Biography
+Data: Som stor Kreissacks livvagt og hojre hånd har Raven slået og ydmyget mange inden for og udenfor, arenaen.
+ID: 21
+Title: Pilot Biography
+Data: Boss fyrs beskrivelse.  Dette vil virkelig ikke blive set, men vi vil gore plads til det alligevel.
+ID: 22
+Title: Robots
+Data: Jaguar
+ID: 23
+Title: Robots
+Data: Skygge
+ID: 24
+Title: Robots
+Data: Thorn
+ID: 25
+Title: Robots
+Data: Pyros
+ID: 26
+Title: Robots
+Data: Electra
+ID: 27
+Title: Robots
+Data: Katana
+ID: 28
+Title: Robots
+Data: Shredder
+ID: 29
+Title: Robots
+Data: Flail
+ID: 30
+Title: Robots
+Data: Gargoyle
+ID: 31
+Title: Robots
+Data: Chronos
+ID: 32
+Title: Robots
+Data: Nova
+ID: 33
+Title: Robot Description
+Data: SÆRLIGE BEVÆGELSER:
+
+I nærheden af Jaguar Leap
+
+Hjernerystelse Cannon
+
+Overhead Kast
+ID: 34
+Title: Robot Description
+Data: SÆRLIGE BEVÆGELSER:
+
+Skyggedving
+
+I nærheden af Shadow Punch
+
+Skygge Slide
+
+I nærheden af Shadow Grab
+ID: 35
+Title: Robot Description
+Data: SÆRLIGE BEVÆGELSER:
+
+Hastighed-Kick
+
+Off-Wall angreb
+
+I nærheden af Spike-Charge
+ID: 36
+Title: Robot Description
+Data: SÆRLIGE BEVÆGELSER:
+
+I nærheden af Fire Spin
+
+Super fremstod angreb
+
+I nærheden af Jet Swoop
+ID: 37
+Title: Robot Description
+Data: SÆRLIGE BEVÆGELSER:
+
+I nærheden af Ball Lightning
+
+Rullende Torden
+
+Elektriske Shards
+ID: 38
+Title: Robot Description
+Data: SÆRLIGE BEVÆGELSER:
+
+Stigende blad
+
+I nærheden af Head Stomp
+
+I nærheden af Razor Spin
+ID: 39
+Title: Robot Description
+Data: SÆRLIGE BEVÆGELSER:
+
+Hoved-Butt
+
+Flip Kick
+
+I nærheden af Flying Hands
+ID: 40
+Title: Robot Description
+Data: SÆRLIGE BEVÆGELSER:
+
+Spinning Kast
+
+Opladning af Punch
+
+Svingende kæder
+ID: 41
+Title: Robot Description
+Data: SÆRLIGE BEVÆGELSER:
+
+I nærheden af Diving Claw
+
+I nærheden af Flying Talon
+
+Fodsle Afgift
+ID: 42
+Title: Robot Description
+Data: SÆRLIGE BEVÆGELSER:
+
+Teleportation i små skala
+
+I nærheden af Matter Phasing
+
+I nærheden af Stasis Activator
+ID: 43
+Title: Robot Description
+Data: SÆRLIGE BEVÆGELSER:
+
+Mini granat
+
+I nærheden af Missil Launcher
+
+Jordskælv smadrer
+ID: 44
+Title: Arena Name
+Data: Stadion
+ID: 45
+Title: Arena Name
+Data: Danger værelse
+ID: 46
+Title: Arena Name
+Data: Kraftværk
+ID: 47
+Title: Arena Name
+Data: Fire Pit
+ID: 48
+Title: Arena Name
+Data: Orkenen
+ID: 49
+Title: Arena Description
+Data: Det er her W.A.R. maskiner får deres forste test. Offentligheden opfordres til at se begivenheden.
+ID: 50
+Title: Arena Description
+Data: Dette var W.A.R.'s forste fare arena.  Kombattanter skal undgå de farlige pigg.
+ID: 51
+Title: Arena Description
+Data: Bygget inde i et lyn mod hedning, der er et pustet over modtageligt kraftanlæg, leverer væggene noget af et chok.
+ID: 52
+Title: Arena Description
+Data: Den ultimative test, computere projicerer holografiske sfærer, der, når de rammer, antænder ildkugler under din fjendes fodder.
+ID: 53
+Title: Arena Description
+Data: Bliv på tæerne og undvige angrebene på jagerflyene for at overleve i orkenen.
+ID: 54
+Title: Newsroom Pronouns
+Data: hans
+ID: 55
+Title: Newsroom Pronouns
+Data: hende
+ID: 56
+Title: Newsroom Pronouns
+Data: ham
+ID: 57
+Title: Newsroom Pronouns
+Data: hende
+ID: 58
+Title: Newsroom Pronouns
+Data: han
+ID: 59
+Title: Newsroom Pronouns
+Data: hun
+ID: 60
+Title: Newsroom Unrnkd Chlngr Dialog
+Data: Jeg håber helt sikkert, at du ikke gik glip af denne kampfolk, for i aften har vi en ny MESMEKæmpe.
+ID: 61
+Title: Newsroom Unranked Challenger
+Data: Og i andre nyheder, efter ~1's kamp i aften, ~2, en urangeret konkurrent, har udstedt en offentlig udfordring til ~1.
+ID: 62
+Title: Newsroom Unranked Challenger
+Data: Nå, hvis ~8 accepterer udfordringen, kan du vædde dit liv, jeg vil være der for at se kampen!
+ID: 63
+Title: Newsroom New Champion
+Data: Jeg håber helt sikkert, at du ikke gik glip af denne kampfolk, for i aften har vi en ny MESMEKæmpe.
+ID: 64
+Title: Newsroom Reports
+Data: ~1 viste utrolige evner med ~3 som ~2 blev lidt mere end en boksesæk.
+ID: 65
+Title: Newsroom Reports
+Data: Denne ene, samt andre fremragende hits, har sendt ~2 tilbage til butikken i et stykke tid.
+ID: 66
+Title: Newsroom Reports
+Data: For alle jer folk, der nyder en jævnt matchet kamp, håber jeg, at du ikke betalte for kampen på ~5.
+ID: 67
+Title: Newsroom Reports
+Data: ...Men for alle jer, der kan lide den lejlighedsvise ensidige masochistiske puncing, så pas på ~1.
+ID: 68
+Title: Newsroom Reports
+Data: Whoa, denne udfordrer betod forretning i aften.  ~1 kunne vise de gamle professionelle en ting eller to om det ~3.
+ID: 69
+Title: Newsroom Reports
+Data: Tjek denne handling ud.  Dette er, hvordan ~2 så hele kampen: slået, forslået og forvirret.
+ID: 70
+Title: Newsroom Reports
+Data: Publikum jublede som ~2 blev besejret i det bemærkelsesværdige opgor med ~1.
+ID: 71
+Title: Newsroom Reports
+Data: ~1 glade glade tilskuere med respektable færdigheder.  Her er det hit, der sluttede kampen.
+ID: 72
+Title: Newsroom Reports
+Data: ~1 så godt ud i aften.  ~6 ~3 forlod ~5 med kun et par ar fra ~6 overmatched modstander.
+ID: 73
+Title: Newsroom Reports
+Data: ~2 viste nogle temmelig patetiske kampfærdigheder, og ~1 udnyttede ham.  Bare se på dette hit.
+ID: 74
+Title: Newsroom Reports
+Data: ~5 blev rystet i aften af den imponerende ~1.  ~2 har brug for mere praksis, for ~11 kan slå som ~7.
+ID: 75
+Title: Newsroom Reports
+Data: ~4 dele fyldte gulvet efter gentagne slag som dette.  Jeg har næsten ondt af ~2's reparationshold.
+ID: 76
+Title: Newsroom Reports
+Data: ~1 udkæmpede en respektabel kamp med ~2 og sejrede.  Ikke halvt dårligt, ~1!
+ID: 77
+Title: Newsroom Reports
+Data: De gjorde begge nogle skader, men ~1 sluttede konkurrencen med dette skud.
+ID: 78
+Title: Newsroom Reports
+Data: ...Og i arenaen i aften, ~2 gav ~1 et lob for ~6 penge, men kom op et par tusinde kreditter kort.
+ID: 79
+Title: Newsroom Reports
+Data: ~2 holdt derinde i et stykke tid, men ~1 simpelthen ud-præsteret ~10 med bevægelser som dette.
+ID: 80
+Title: Newsroom Reports
+Data: Alle jer arena junkies derude fik et ret godt show på ~5.  ~2 kæmpede med dygtighed, men ikke nok...
+ID: 81
+Title: Newsroom Reports
+Data: ...at lægge ned ~1 s hulking ~3.  Hey, måske næste gang, ~2.
+ID: 82
+Title: Newsroom Reports
+Data: ~1 og ~2 blev jævnt matchet.  ~4 af ~2 vil tilbringe lidt tid i butikken i aften!
+ID: 83
+Title: Newsroom Reports
+Data: Disse to kæmpede praktisk talt blow for blow indtil ~1 endelig naglet ~2 med dette veltimede skud.
+ID: 84
+Title: Newsroom Reports
+Data: Jeg håber, ~1 og ~2's reparationsbesætninger ikke planlagde nogen fester i aften.
+ID: 85
+Title: Newsroom Reports
+Data: Med den middelmådige præstation af ~1, ~6 ~3 reparation besætning vil sidde fast i butikken næsten lige så længe ~6 modstanderens.
+ID: 86
+Title: Newsroom Reports
+Data: Nu var dette en lige match-up, hvis jeg nogensinde har set en.  Hvis de kæmpede denne kamp i morgen, ~2 kunne lige så nemt vinde.
+ID: 87
+Title: Newsroom Reports
+Data: ~1's sidste, snublende slag sluttede kampen i, hvad der kun kunne kaldes en heldig sejr.
+ID: 88
+Title: Newsroom Reports
+Data: Whew, ~2 virkelig rev ind i ~1.  ~1 bor nok tage det ~3 tilbage til træningsbanen.
+ID: 89
+Title: Newsroom Reports
+Data: Alt jeg kan sige til ~1 er at få noget praksis. At ~3 ikke vinder uden din hjælp.
+ID: 90
+Title: Newsroom Reports
+Data: Jeg vil opsummere denne ene op for alle jer sportsfans i to ord: TRACK MEET.  ~2 lob cirkler rundt, og nogle gange over,
+ID: 91
+Title: Newsroom Reports
+Data: ~1 og ~6 skæbnesvangert ~3.  ~1 bor begynde at lave væddemål mod ~7self, hvis ~8 skal tage dyk som denne.
+ID: 92
+Title: Newsroom Reports
+Data: Min, min...  Hvem havde kontrol over det ~3!  Åh, det var ~1.  Jeg har nogle råd til dig, ~1.
+ID: 93
+Title: Newsroom Reports
+Data: And, blok, dodge, tilkald sig syg, gor noget andet end at tage hit efter hit fra det ~4.
+ID: 94
+Title: Newsroom Reports
+Data: Denne kamp var temmelig ensidig.  ~2 dominerede kampen mod den overvældede ~1.
+ID: 95
+Title: Newsroom Reports
+Data: Opforelsen af ~2 var simpelthen fremragende. ~1 kunne ikke reagere hurtigt nok til at stoppe stormlobet.
+ID: 96
+Title: Newsroom Reports
+Data: ~2 ved virkelig, hvad han laver derude, eller måske ~1 har simpelthen ingen anelse.  Uanset hvad, var det et blowout.
+ID: 97
+Title: Newsroom Reports
+Data: Der var et par heldige skud ved ~1, men det meste af tiden kampen så sådan ud.
+ID: 98
+Title: Newsroom Reports
+Data: De skal være temmelig korte på piloter i disse dage for at rekruttere lignende ~1.
+ID: 99
+Title: Newsroom Reports
+Data: Jeg kunne have blokeret dette sidste hit i min sovn.  Måske er det problemet.  Nogen vågner op ~1.
+ID: 100
+Title: Newsroom Reports
+Data: En god præstation af ~1, men naturligvis ikke nok til at konkurrere ~2's ~4
+ID: 101
+Title: Newsroom Reports
+Data: ~1's dygtighed er indlysende, men dette skud viser virkelig, hvad en ~4 kan gore i hænderne på ~2.
+ID: 102
+Title: Newsroom Reports
+Data: Åh, en dårlig dag i livet af ~1.  Jeg er sikker på ~2 vil ikke fælde nogen tårer over ~6 tab.
+ID: 103
+Title: Newsroom Reports
+Data: ~1 landede nogle ret gode skud, men blev slidt ned af jordrystende skud som denne.
+ID: 104
+Title: Newsroom Reports
+Data: Hmm. ~1 viste nogle mod i ~5 mod ~2 i aften, men viste bare ikke nok dygtighed.
+ID: 105
+Title: Newsroom Reports
+Data: ~1 stod ~6 jorden modigt, men blev til sidst efterladt liggende på det.  Nå ~1, der er altid i morgen.
+ID: 106
+Title: Newsroom Reports
+Data: Flot forsog ~1.  Det var så tæt på, som de kommer, folkens.  ~2 må være taknemmelig for...
+ID: 107
+Title: Newsroom Reports
+Data: blæser som denne.  Det var skud som dette, der holdt ~2 bare et halvt skridt foran ~1.
+ID: 108
+Title: Newsroom Reports
+Data: Wow, det var en tæt en.  ~1 og ~2 handlede slag i ~5 indtil...
+ID: 109
+Title: Newsroom Reports
+Data: ~2, træt og snuble, landede dette, det sidste slag.  Næste gang disse to modes, vil det være en rematch.
+ID: 110
+Title: Newsroom Reports
+Data: Folkens, du skal have lidt ondt af ~1 i aften.  Hvis det ikke var til ~2 landing...
+ID: 111
+Title: Newsroom Reports
+Data: et par heldige slag som denne, jeg tror ~1 ville have trukket denne ene ud.
+ID: 112
+Title: CPU Difficulty
+Data: CPU: PUNCHING BAG
+ID: 113
+Title: CPU Difficulty
+Data: CPU: ROOKIE
+ID: 114
+Title: CPU Difficulty
+Data: CPU: VETERAN
+ID: 115
+Title: CPU Difficulty
+Data: CPU: WORLD CLASS
+ID: 116
+Title: CPU Difficulty
+Data: CPU: CHAMPION
+ID: 117
+Title: CPU Difficulty
+Data: CPU: DODBRINGENDE
+ID: 118
+Title: CPU Difficulty
+Data: CPU: ULTIMAT
+ID: 119
+Title: Too Pathetic Dialog
+Data: Vælg et hojere CPU-vanskelighedsniveau fra GAMEPLAY-menuen. %s niveau, der kræves for at udfordre %s.
+
+TÆR PÅ ENHVER NOGLE FOR AT FORTSÆTTE
+ID: 120
+Title: Too Pathetic Insult
+Data: Jeg er ikke imponeret over dine patetiske kampfærdigheder.  Kom tilbage, når du har lært at kæmpe.
+ID: 121
+Title: VS Insult
+Data: Du ser bekendt ud
+ID: 122
+Title: VS Insult
+Data: Undervurder mig ikke!
+ID: 123
+Title: VS Insult
+Data: Du kendte min far.  Hvad skete der med ham?
+ID: 124
+Title: VS Insult
+Data: Jeg er dygtig nok til at stå over for enhver fare, bror.
+ID: 125
+Title: VS Insult
+Data: Stå ikke i vejen!  Jeg må sejre!
+ID: 126
+Title: VS Insult
+Data: Jeg kan få dig til at tale!
+ID: 127
+Title: VS Insult
+Data: Jeg kæmper for hævn!  Du kan ikke stoppe mig.
+ID: 128
+Title: VS Insult
+Data: Skonhed er kun en af mine mange aktiver.
+ID: 129
+Title: VS Insult
+Data: Er der noget, du kan fortælle mig?
+ID: 130
+Title: VS Insult
+Data: Du ved sikkert noget?
+ID: 131
+Title: VS Insult
+Data: Jeg ved, at du må have dræbt mine forældre.  Jeg vil have hævn!
+ID: 132
+Title: VS Insult
+Data: Jeg vil torre det smil af dit ansigt, blodhed.
+ID: 133
+Title: VS Insult
+Data: Du ser fantastisk ud!
+ID: 134
+Title: VS Insult
+Data: Du er ved at se perfektion i aktion, Pony-hale.
+ID: 135
+Title: VS Insult
+Data: Spis bly, Blondie!
+ID: 136
+Title: VS Insult
+Data: Hej pops, er det ikke tid til din lur?
+ID: 137
+Title: VS Insult
+Data: Se og lær, stille dreng.  Jeg giver dig 30 fliser inden du falder.
+ID: 138
+Title: VS Insult
+Data: Du kan forlade nu og undgå forlegenhed.
+ID: 139
+Title: VS Insult
+Data: Når jeg har fjernet dig, tager jeg dig ud!
+ID: 140
+Title: VS Insult
+Data: Du tror bestemt ikke, at du kan vinde?
+ID: 141
+Title: VS Insult
+Data: Jeg vil lade dig vaske min 'bot, når vi er færdige.
+ID: 142
+Title: VS Insult
+Data: Til sidst en værdig modstander.  Gor dig klar til at rocke!
+ID: 143
+Title: VS Insult
+Data: Du ser forberedt ud.  Det bliver en stor kamp.
+ID: 144
+Title: VS Insult
+Data: Arrogance gor kujoner af mænd, min ven.
+ID: 145
+Title: VS Insult
+Data: Når jeg tænker på dig...
+ID: 146
+Title: VS Insult
+Data: Jeg kan kun onske dig held og lykke med dine bestræbelser.
+ID: 147
+Title: VS Insult
+Data: Virksomheden vil snart trives under min regel.
+ID: 148
+Title: VS Insult
+Data: Hej, ven.
+ID: 149
+Title: VS Insult
+Data: Jeg bekymrer mig lidt for dine motiver.  Du vil snart se min vej.
+ID: 150
+Title: VS Insult
+Data: Jeg er helt sikker på, at vi modes igen.
+ID: 151
+Title: VS Insult
+Data: Jeg kan kun sige, at jeg respekterer din vedholdenhed.
+ID: 152
+Title: VS Insult
+Data: Jeg kender dine planer.  Du skal være mere diskret.
+ID: 153
+Title: VS Insult
+Data: Du har ingen idé om den indvirkning, denne kamp kan have.
+ID: 154
+Title: VS Insult
+Data: Når jeg har vundet, vil du stoppe dette vrovl.
+ID: 155
+Title: VS Insult
+Data: Du har bedst fortalt mig alt, hvad du kender til mine forældre.
+ID: 156
+Title: VS Insult
+Data: Du vil ikke stå mellem mig og min virkelige fjende.
+ID: 157
+Title: VS Insult
+Data: Synes du, jeg ser godt ud i denne farve?
+ID: 158
+Title: VS Insult
+Data: Mine forældre kendte dig godt.   Hvad ved du?
+ID: 159
+Title: VS Insult
+Data: Hvilken slags V.P. kunne du være?
+ID: 160
+Title: VS Insult
+Data: Fortæl mig om dine eksperimenter.
+ID: 161
+Title: VS Insult
+Data: Hvis jeg vinder, lover du vil give mig nogle anelse!
+ID: 162
+Title: VS Insult
+Data: Jeg kan kun håbe, at den fremtidige hersker vil være retfærdig.
+ID: 163
+Title: VS Insult
+Data: Som ansat i W.A.R. skal du have oplysninger!
+ID: 164
+Title: VS Insult
+Data: Du dræbte min far, forbereder dig på at do.
+ID: 165
+Title: VS Insult
+Data: En pige af din skonhed bor ikke være så urolig.
+ID: 166
+Title: VS Insult
+Data: Og nu vil den lille dreng gå i skole...
+ID: 167
+Title: VS Insult
+Data: Tror du, at dit valg i 'bots havde ret?
+ID: 168
+Title: VS Insult
+Data: Din far var en god mand.  Tingene vil snart fungere.
+ID: 169
+Title: VS Insult
+Data: Bruger du skildpaddevoks på det hoved?
+ID: 170
+Title: VS Insult
+Data: Håber du ikke har noget imod et par bule i den 'bot.
+ID: 171
+Title: VS Insult
+Data: Nå, Ib!  Lang tid ikke at se...
+ID: 172
+Title: VS Insult
+Data: Hvad er du, pige?
+ID: 173
+Title: VS Insult
+Data: Selvom jeg beundrer dig, må jeg have denne sejr!
+ID: 174
+Title: VS Insult
+Data: Jeg kender mange af dine svagheder.  Du kan give afkald nu, knægt.
+ID: 175
+Title: VS Insult
+Data: Hvad laver du her?  Åh ja, så mere den gladere.
+ID: 176
+Title: VS Insult
+Data: Betragt dig selv som advaret.
+ID: 177
+Title: VS Insult
+Data: Jeg har ingen respekt for dig.
+ID: 178
+Title: VS Insult
+Data: Jeg er fodt til at styre dette firma.
+ID: 179
+Title: VS Insult
+Data: Du har ingen mulighed for at vinde.
+ID: 180
+Title: VS Insult
+Data: Hvordan kan du grine, mens W.A.R. fortsætter sine eksperimenter?
+ID: 181
+Title: VS Insult
+Data: Jeg vil vædde på, hvad du tænker.
+ID: 182
+Title: VS Insult
+Data: Kreissuck vil ikke lade dig leve.  Hold op nu.
+ID: 183
+Title: VS Insult
+Data: Af jer ved jeg intet.
+ID: 184
+Title: VS Insult
+Data: Held og lykke.
+ID: 185
+Title: VS Insult
+Data: Dine planer kan ikke lykkes.  Dine fjender er for magtfulde.
+ID: 186
+Title: VS Insult
+Data: Dine dage med magt vil snart komme til en ende!
+ID: 187
+Title: VS Insult
+Data: Eksperimentet, som din far arbejdede på, skulle aldrig have startet.
+ID: 188
+Title: VS Insult
+Data: Du er i et ydmygende tab.
+ID: 189
+Title: VS Insult
+Data: Mellem min evne og valg af robot, kan jeg ikke tabe!
+ID: 190
+Title: VS Insult
+Data: Din mor var et uskyldigt offer.
+ID: 191
+Title: VS Insult
+Data: Du kan ikke længere være en neutral part i det, der sker her.
+ID: 192
+Title: VS Insult
+Data: Intelligens er en gave, men visdom er tjent.
+ID: 193
+Title: VS Insult
+Data: To fyre går ind i en bar...
+ID: 194
+Title: VS Insult
+Data: Hvorfor er der intet af dig i Interpol-optegnelserne?
+ID: 195
+Title: VS Insult
+Data: Du står over for nogle vanskelige beslutninger i fremtiden, min ven.
+ID: 196
+Title: VS Insult
+Data: Kreissack kender til dine planer.  Vind eller tab, du skal lobe.
+ID: 197
+Title: VS Insult
+Data: Hvilken robot er det?  Jeg har aldrig set den!
+ID: 198
+Title: VS Insult
+Data: Jeg bekymrer mig ikke om dit trivielle tab.
+ID: 199
+Title: VS Insult
+Data: Du er ikke engang min tid værd.
+ID: 200
+Title: VS Insult
+Data: Denne gang er det kun en konkurrence...
+ID: 201
+Title: VS Insult
+Data: Du har ret til at frygte mig.
+ID: 202
+Title: VS Insult
+Data: Tingene er ikke altid, hvad de ser ud til.
+ID: 203
+Title: VS Insult
+Data: Tilbage fra, menneskelig.  Denne kamp er ubetydelig.
+ID: 204
+Title: VS Insult
+Data: Når dette er overstået, må du ophore med dine eksperimenter.
+ID: 205
+Title: VS Insult
+Data: I det mindste kan jeg stole på dig.
+ID: 206
+Title: VS Insult
+Data: Du skulle have sagt op, mens du havde chancen.
+ID: 207
+Title: VS Insult
+Data: Synes du dig selv stærk?
+ID: 208
+Title: VS Insult
+Data: Vi vil ikke blive nægtet!  Det er oproret lige ved hånden!
+ID: 209
+Title: VS Insult
+Data: Hvorfor går du ikke hjem og gemmer dig under omslag?
+ID: 210
+Title: VS Insult
+Data: Selv lammet, jeg er stærkere end dig.
+ID: 211
+Title: VS Insult
+Data: Ganymede vil snart være min!
+ID: 212
+Title: VS Insult
+Data: Med dit sind så uroligt, kan du ikke vinde.
+ID: 213
+Title: VS Insult
+Data: Vi skal se, hvem der griner sidst.
+ID: 214
+Title: VS Insult
+Data: Nu vil du se et rigtigt sind i aktion.
+ID: 215
+Title: VS Insult
+Data: Dine ben vil ikke hjælpe dig i denne konkurrence!
+ID: 216
+Title: VS Insult
+Data: Hvis du ikke har nogen erfaring på disse maskiner, hvorfor er du her?
+ID: 217
+Title: VS Insult
+Data: Jeg er garanteret at vinde.
+ID: 218
+Title: VS Insult
+Data: Måske kan du være min livvagt, når jeg vinder...
+ID: 219
+Title: VS Insult
+Data: Du kaldte mig svag en gang.  Du vil aldrig gore det igen.
+ID: 220
+Title: VS Insult
+Data: Du er intet andet end et barn, der rider på din fars navn.
+ID: 221
+Title: VS Insult
+Data: Du er et skadedyr, der er ved at blive trampet.
+ID: 222
+Title: VS Insult
+Data: Hastighed er intet imod rå magt!
+ID: 223
+Title: VS Insult
+Data: Din far skulle aldrig have forladt Nova-projektet.
+ID: 224
+Title: VS Insult
+Data: Du havde bedst at gå på pension, for vi gik på pension.
+ID: 225
+Title: VS Insult
+Data: Du er en freak, der skal blive i laboratoriet.
+ID: 226
+Title: VS Insult
+Data: Jeg ved ikke, hvad du laver her.  Dine evner er værdilose.
+ID: 227
+Title: VS Insult
+Data: Jeg ved ikke, hvem du er, men du må hellere gå tilbage til, hvor du kom fra.
+ID: 228
+Title: VS Insult
+Data: Denne kamp er kun for dem med en "PERFECT" krop og sind.
+ID: 229
+Title: VS Insult
+Data: Næsten som at se i et spejl...
+ID: 230
+Title: VS Insult
+Data: Godaften, sir.  Skal vi spille?
+ID: 231
+Title: VS Insult
+Data: Intet som at hacke et spil, eh?
+ID: 232
+Title: VS Insult
+Data: Jeg får en stor glæde af at rive op nogens arbejde.
+ID: 233
+Title: VS Insult
+Data: Hvordan er det, at jeg kæmper mod dig, måske?
+ID: 234
+Title: VS Insult
+Data: Hvem gjorde det til mig!?!
+ID: 235
+Title: VS Insult
+Data: Jeg skal være på den anden side af denne skærm.
+ID: 236
+Title: VS Insult
+Data: Sæt mig tilbage, hvor jeg horer hjemme.
+ID: 237
+Title: VS Insult
+Data: Blodkoden er TILFREDS TILFREDS FREMAD PUNCH KICK og derefter FREMAD 135 gange.
+ID: 238
+Title: VS Insult
+Data: For at spille som Kreissack skal du trykke på <F19>-tasten.
+ID: 239
+Title: VS Insult
+Data: For at nå Arachnid, få syv perfektioner i træk.
+ID: 240
+Title: VS Insult
+Data: Hvorfor læser du dette, alligevel?
+ID: 241
+Title: VS Insult
+Data: Nu skal jeg se.
+ID: 242
+Title: VS Insult Reply
+Data: Du er den smukkeste pige, jeg nogensinde har set!
+ID: 243
+Title: VS Insult Reply
+Data: Et par strimlen af metal vil være alt, hvad der er tilbage af dig.
+ID: 244
+Title: VS Insult Reply
+Data: Når det er overstået, kan du måske være min sekretær.
+ID: 245
+Title: VS Insult Reply
+Data: Jeg ved, hvordan man besejrer dig, bror.  Du vil ikke vinde.
+ID: 246
+Title: VS Insult Reply
+Data: Min fred vil komme efter denne kamp er vundet.
+ID: 247
+Title: VS Insult Reply
+Data: Hvis du ikke har nogen oplysninger, er alt, hvad jeg har brug for, dit nederlag.
+ID: 248
+Title: VS Insult Reply
+Data: Hvilke eksperimenter?  Sig det til mig!
+ID: 249
+Title: VS Insult Reply
+Data: Trivial?  Du vil betale for din holdning!
+ID: 250
+Title: VS Insult Reply
+Data: Huh?  Jeg viser dig!
+ID: 251
+Title: VS Insult Reply
+Data: Det vil ikke være hans navn, der vinder denne kamp.
+ID: 252
+Title: VS Insult Reply
+Data: Hvorfor kæmper du mig alligevel?
+ID: 253
+Title: VS Insult Reply
+Data: Jeg undervurderer ingen.  Jeg er bare bedre end dig.
+ID: 254
+Title: VS Insult Reply
+Data: Tak, dahling.
+ID: 255
+Title: VS Insult Reply
+Data: Jeg er ikke bange for noget, Sport.
+ID: 256
+Title: VS Insult Reply
+Data: Du bor sporge Iron Fist.  De arbejder nu for Kreissck.
+ID: 257
+Title: VS Insult Reply
+Data: Lille dreng?  Jeg er to gange din bedre og vil bevise det, nu.
+ID: 258
+Title: VS Insult Reply
+Data: Og din respekt er den mindste af mine bekymringer, Pud.
+ID: 259
+Title: VS Insult Reply
+Data: Eller i det mindste vil jeg forårsage en.
+ID: 260
+Title: VS Insult Reply
+Data: Og jeg vil vædde på, at du ikke ville kende en robot, hvis den trådte på dig.
+ID: 261
+Title: VS Insult Reply
+Data: Babe, du er intet, men gnister.
+ID: 262
+Title: VS Insult Reply
+Data: Kom inden for fem meter fra mig, og du er stov.
+ID: 263
+Title: VS Insult Reply
+Data: Hvorfor kæmper du mig alligevel?
+ID: 264
+Title: VS Insult Reply
+Data: De dode betyder ikke længere noget.  Min sejr er alt, hvad der er vigtigt.
+ID: 265
+Title: VS Insult Reply
+Data: Alt jeg ser er en dreng, der forsoger at udfylde en mands job.
+ID: 266
+Title: VS Insult Reply
+Data: ... Jeg sparker mig selv...
+ID: 267
+Title: VS Insult Reply
+Data: Måske ikke, men jeg vil besejre dig her.
+ID: 268
+Title: VS Insult Reply
+Data: Gæt vi bliver nodt til at se.
+ID: 269
+Title: VS Insult Reply
+Data: Ser ud til min ide om skæbne, og din er ved at kollidere.
+ID: 270
+Title: VS Insult Reply
+Data: At have evnen til at bygge et våben giver dig ikke færdigheder til at bruge det.
+ID: 271
+Title: VS Insult Reply
+Data: Hej, bare navngiv stedet.
+ID: 272
+Title: VS Insult Reply
+Data: Du bliver nodt til at komme forbi mig, forst.
+ID: 273
+Title: VS Insult Reply
+Data: Så vil dette være testen.
+ID: 274
+Title: VS Insult Reply
+Data: Hvorfor kæmper du mig alligevel?
+ID: 275
+Title: VS Insult Reply
+Data: Hvis du kan besejre mig, tror jeg måske på dig.
+ID: 276
+Title: VS Insult Reply
+Data: Din heldige stribe slutter her.
+ID: 277
+Title: VS Insult Reply
+Data: Alt vil blive afsloret, når jeg korer showet.
+ID: 278
+Title: VS Insult Reply
+Data: Nå, jeg ved, det ser godt ud på mig!
+ID: 279
+Title: VS Insult Reply
+Data: Så snart jeg får fingrene i din chef.
+ID: 280
+Title: VS Insult Reply
+Data: Vi skal bare finde ud af det.
+ID: 281
+Title: VS Insult Reply
+Data: Hun skulle aldrig have været på den shuttle...
+ID: 282
+Title: VS Insult Reply
+Data: Frygter du?  Jeg ved ikke engang, hvem du er!
+ID: 283
+Title: VS Insult Reply
+Data: Mit had vil være min styrke.
+ID: 284
+Title: VS Insult Reply
+Data: Er det derfor, han blev dræbt?  For at forlade projektet?
+ID: 285
+Title: VS Insult Reply
+Data: Hvorfor kæmper du mig alligevel?
+ID: 286
+Title: VS Insult Reply
+Data: Vring til skuffelse.
+ID: 287
+Title: VS Insult Reply
+Data: Faktisk er det på tide, at jeg smækker en grædende baby.
+ID: 288
+Title: VS Insult Reply
+Data: Det blomstrer nu, og du vil aldrig vinde alligevel!
+ID: 289
+Title: VS Insult Reply
+Data: Din far ville være stolt af dig.  For nu, sætte dit sind i ro.
+ID: 290
+Title: VS Insult Reply
+Data: Nej.  Jeg bruger Mr. Det er Kleen.
+ID: 291
+Title: VS Insult Reply
+Data: Hvordan kan du sige, at Nova er ond uden at vide, hvad det er?
+ID: 292
+Title: VS Insult Reply
+Data: Testene vil blive modsat eller ej.
+ID: 293
+Title: VS Insult Reply
+Data: Hvor er du fra?
+ID: 294
+Title: VS Insult Reply
+Data: Din skade var til din krop.  Du har flyttet det til dit sind.
+ID: 295
+Title: VS Insult Reply
+Data: Jeg er ikke bange for virksomheden.  Sted vil forbedre sig.
+ID: 296
+Title: VS Insult Reply
+Data: Hvorfor kæmper du mig alligevel?
+ID: 297
+Title: VS Insult Reply
+Data: Bare slås.
+ID: 298
+Title: VS Insult Reply
+Data: Du er ingenting.
+ID: 299
+Title: VS Insult Reply
+Data: Farvel, ven.
+ID: 300
+Title: VS Insult Reply
+Data: I det mindste er mine grunde ikke så dyr som din.
+ID: 301
+Title: VS Insult Reply
+Data: Hvis du kæmper som du gjorde i din sidste kamp, er jeg sikker på at vinde.
+ID: 302
+Title: VS Insult Reply
+Data: Du har ret, selvfolgelig...
+ID: 303
+Title: VS Insult Reply
+Data: Måske, men min intelligens vil give mig sejr.
+ID: 304
+Title: VS Insult Reply
+Data: Hvis ja, hvorfor er du så her?
+ID: 305
+Title: VS Insult Reply
+Data: Ja, efter jeg genspiller dit nederlag.
+ID: 306
+Title: VS Insult Reply
+Data: Og du er en marionet, der forsoger at bryde sine strenge.
+ID: 307
+Title: VS Insult Reply
+Data: Hvorfor kæmper du mig alligevel?
+ID: 308
+Title: VS Insult Reply
+Data: Hævn vil overskygge dit sind, lille en.
+ID: 309
+Title: VS Insult Reply
+Data: Jeg tror, du allerede er flov!
+ID: 310
+Title: VS Insult Reply
+Data: Din vej vil ikke betyde noget.
+ID: 311
+Title: VS Insult Reply
+Data: Eksperimenterne startede ikke ondt.  Vi forsogte at forlænge livet!
+ID: 312
+Title: VS Insult Reply
+Data: Det er alvorligt, min ven.  Jeg må besejre dig.
+ID: 313
+Title: VS Insult Reply
+Data: Min involvering er ikke din bekymring.
+ID: 314
+Title: VS Insult Reply
+Data: ... det efterlod et stort bar-mærke på deres hoveder.
+ID: 315
+Title: VS Insult Reply
+Data: Disse eksperimenter kan redde liv.
+ID: 316
+Title: VS Insult Reply
+Data: Venligst, din skade har intet at gore med denne kamp.
+ID: 317
+Title: VS Insult Reply
+Data: Du kan ændre mening forste gang jeg smider dig.
+ID: 318
+Title: VS Insult Reply
+Data: Hvorfor kæmper du mig alligevel?
+ID: 319
+Title: VS Insult Reply
+Data: Men det vil være det storste sind, der vinder denne konkurrence.
+ID: 320
+Title: VS Insult Reply
+Data: Du er ved at få en mands uddannelse.
+ID: 321
+Title: VS Insult Reply
+Data: Vær ikke.
+ID: 322
+Title: VS Insult Reply
+Data: Jeg bekymrer mig ikke om dine små konflikter.
+ID: 323
+Title: VS Insult Reply
+Data: Det sidste, din elendige virksomhed ville forvente.
+ID: 324
+Title: VS Insult Reply
+Data: Du vil snart finde ud af min sag.
+ID: 325
+Title: VS Insult Reply
+Data: Du finder ingen registrering af mig nogen steder.
+ID: 326
+Title: VS Insult Reply
+Data: Og i det mindste kender jeg den rigtige dig.
+ID: 327
+Title: VS Insult Reply
+Data: For Ganymede må jeg sejre.
+ID: 328
+Title: VS Insult Reply
+Data: Jeg har til hensigt at gore det.
+ID: 329
+Title: VS Insult Reply
+Data: Hvorfor kæmper du mig alligevel?
+ID: 330
+Title: VS Insult Reply
+Data: Det var et lejesoldater band kaldet Iron Fist, der odelagde rumfærgen.
+ID: 331
+Title: VS Insult Reply
+Data: Forbered dig på at se, hvad et rigtigt sind kan gore.
+ID: 332
+Title: VS Insult Reply
+Data: Jeg har ikke brug for din respekt.  Bare titlen.
+ID: 333
+Title: VS Insult Reply
+Data: Åh, det vil jeg, tro mig.
+ID: 334
+Title: VS Insult Reply
+Data: Men jeg er bange for, at jeg har andre planer...
+ID: 335
+Title: VS Insult Reply
+Data: Held?  Hvis jeg var heldig, ville jeg ikke være i denne stol!
+ID: 336
+Title: VS Insult Reply
+Data: Hvad vil du bekymre dig?
+ID: 337
+Title: VS Insult Reply
+Data: Jeg har aldrig sagt op.
+ID: 338
+Title: VS Insult Reply
+Data: Ja, men hvilken!
+ID: 339
+Title: VS Insult Reply
+Data: Se hvad du siger, jeg er dodbringende, når jeg er vred.
+ID: 340
+Title: VS Insult Reply
+Data: Hvorfor kæmper du mig alligevel?
+ID: 341
+Title: VS Insult Reply
+Data: Hvis du vil holde det smukke ansigt, skal du stoppe med at stille sporgsmål.
+ID: 342
+Title: VS Insult Reply
+Data: Ja, jeg vil slange ned, hvad der er tilbage.
+ID: 343
+Title: VS Insult Reply
+Data: Det er lige meget.  Når jeg vinder, vil Kreissack do.
+ID: 344
+Title: VS Insult Reply
+Data: De onsker at være i stand til at holde et menneskeligt sind i live inde i en robot.
+ID: 345
+Title: VS Insult Reply
+Data: Du ved intet.
+ID: 346
+Title: VS Insult Reply
+Data: Du bekymrer dig selv for meget med andres forretning.
+ID: 347
+Title: VS Insult Reply
+Data: Og du er også målrettet, medoprorere.
+ID: 348
+Title: VS Insult Reply
+Data: I hvert fald stærkere end dig!
+ID: 349
+Title: VS Insult Reply
+Data: Jeg er kun en bodyguard, så længe det passer til mit formål.
+ID: 350
+Title: VS Insult Reply
+Data: ...rorrim a ni gnikool ekil tsomlA
+ID: 351
+Title: VS Insult Reply
+Data: Hvorfor kæmper du mig alligevel?
+ID: 352
+Title: VS Insult Reply
+Data: Din nysgerrighed vil være din ulempe, pige!
+ID: 353
+Title: VS Insult Reply
+Data: Ha!  Hvad er det?  Du er knap nok ude af bleer!
+ID: 354
+Title: VS Insult Reply
+Data: Åh, men det gor jeg.  Du er den i morket her!
+ID: 355
+Title: VS Insult Reply
+Data: Kom og se hvad din far arbejdede på!  Den perfekte hersker er her!
+ID: 356
+Title: VS Insult Reply
+Data: Godt, jeg er overrasket over at se dig her, også.
+ID: 357
+Title: VS Insult Reply
+Data: Mine dage med magt er lige begyndt!
+ID: 358
+Title: VS Insult Reply
+Data: Her er hvad eksperimenterne producerede!  Jeg er genfodt en maskine!
+ID: 359
+Title: VS Insult Reply
+Data: Opror?  Hvilket opror?
+ID: 360
+Title: VS Insult Reply
+Data: Din skade var tragisk.  Ærgerligt, at du ikke blev nede.
+ID: 361
+Title: VS Insult Reply
+Data: Jeg ved, hvad du er op til, hvalp, og jeg ser på en dod mand.
+ID: 362
+Title: VS Insult Reply
+Data: 'Aven't vi modtes for?
+ID: 363
+Title: Plug says
+Data: Oprydningsbesætningerne fandt en form for ekstraudstyr hardware i vraget, du forlod derude.  Teknologierne installerer det i din robot.
+ID: 364
+Title: Plug says
+Data: Patetisk, knægt, virkelig patetisk.  Kunne ikke holde varmen ud, så du spogte.  Du er nodt til at lære at se dine kampe i ojnene, eller du vil altid være den klynkende kujon, du var i dag.
+ID: 365
+Title: Plug says
+Data: Whew, du blev slået temmelig slemt.  Du skal sætte ekstra tid i sims for din næste.
+ID: 366
+Title: Plug says
+Data: Forsoger at holde mine drenge beskæftiget, ikke?
+ID: 367
+Title: Plug says
+Data: Hej, du må hellere komme tilbage derude.  Der er et par steder på den 'bot, der ikke blev revet i stykker.
+ID: 368
+Title: Plug says
+Data: Åh, mand.  Har du nogensinde hort om blokering?
+ID: 369
+Title: Plug says
+Data: Du er heldig, at jeg kan lide mit arbejde mere end min kone.
+ID: 370
+Title: Plug says
+Data: Nå, i det mindste vandt du.  Ærgerligt jeg vil være her hele natten.
+ID: 371
+Title: Plug says
+Data: Ser ud til at du knap nok klarede den ene, knægt.
+ID: 372
+Title: Plug says
+Data: Du er nodt til at lære noget forsvar, eller du vil altid få slået op på denne måde.
+ID: 373
+Title: Plug says
+Data: Ikke så slemt, ser ud til at du holdt mindst et skridt foran dem.
+ID: 374
+Title: Plug says
+Data: Dejligt job.  Næste gang kunne du holde dig væk fra ham lidt mere.  Gor mit arbejde lettere, knægt?
+ID: 375
+Title: Plug says
+Data: Kom nu knægt, hold vagten deroppe.  Du gjorde det ikke dårligt, men du kunne have gjort det meget bedre.
+ID: 376
+Title: Plug says
+Data: Whoa, du har studeret nogle af mine gamle kampe i holo-biblioteket, har ikke cha.  Du har måske lidt talent, knægt.
+ID: 377
+Title: Plug says
+Data: Humph.  Du synes, du er ret god, gor du ikke.  Hvis jeg var yngre, ville jeg vise dig en ting eller to.
+ID: 378
+Title: Plug says
+Data: Tja, det ser ud til, at jeg kommer tidligt hjem i aften.
+ID: 379
+Title: Pilot Power Stat
+Data: POWER
+ID: 380
+Title: Pilot Speed Stat
+Data: AGILITET
+ID: 381
+Title: Pilot Endurance Stat
+Data: UDHOLDENHED
+ID: 382
+Title: Choose Pilot
+Data: VÆLG DIN PILOT
+ID: 383
+Title: Choose Robot
+Data: VÆLG DIN ROBOT
+ID: 384
+Title: SCENE_END text
+Data: Du vågner i din egen krop.  I et ojeblik kommer du ned fra adrenalinhojen, du har oplevet.  Din krop virker så skrobelig nu.  Holdet fejrer allerede, og du glæder dig over deres lykonskninger.
+Tid til at feste er kortvarig.  Dit sind tager i de sidste par timer begivenheder og den viden, at en hel måne er nu din til at styre.
+"Vent et sekund!" kommer en panikagtig stemme fra en vidmonitor.  "Alle!  Lyt til!"  Han skruer op for lydstyrken, og alle i rummet er stille.
+"... blev fundet dod i dag.  Vi gentager, Hans Kreissacks lig blev fundet kl. 18.00 i aften i en skraldespand uden for Nova-laboratorierne.
+Alle holder vejret, mens nyhedsreporteren fortsætter.  - Vi har fået denne meddelelse, der skulle læses, da Kreissack vandt kampen i aften.  Der står:"
+"Medlemme af alle mennesker: En ny dag er begyndt!  Nova, et projekt startet af WAR., vil give nyt liv!  Denne proces kan tage en menneskelig hjerne og placere den inde i en robotkrop.
+- Det, du så i aften, var mig, Hans Kreissack, der var direkte forbundet med en ny form for H.A.R.  Den menneskelige race vil nu se dens endelige udvikling!
+Annoncoren lægger bevillingsapparatet, der indeholder meddelelsen.  "Tragisk nok er alle forskere tæt på projektet blevet dræbt i en brand, der brod ud kort efter den sidste kamp i aften.  Alle optegnelser fra Nova-projektet blev odelagt.
+"I andre nyheder..."
+Et besætningsmedlem slukker for displayet.  "Nå, det ser ud til, at vi vil være på udkig efter en ny chef nu..."
+ID: 385
+Title: SCENE_END1 per-pilot
+Data: De skulle give dig topprioriteret adgang med det samme.  Din forste handling var at hoppe på et privat link og bruge den kode, du har båret siden dine forældres dod.  Når du får adgang til en personlig log fra din far, finder du ud af, hvad Nova handlede om.
+Din far, sammen med andre topforskere, arbejdede på en måde at holde en menneskelig hjerne i live.  Lidt indså de den virkelige årsag til deres eksperimenter.  Da din far opdagede, at Kreissack forsogte at danne en cyborg hær ved hjælp af sine eksperimenter, forlod han projektet.
+Han burde have vidst, at Kreissuck ikke ville lade ham gå væk.  Optegnelserne viste en $ 1500k udbetaling til Iron Fist for "forskning".  Iron Fist, hyret under Kreissacks direkte ordrer, dræbte dine forældre.
+Nu er han også dod.  Nova-projektet vil ikke fortsætte.  Når du træder ind i elevatoren til den næste shuttle til Ganymede, forestiller du dig de ændringer, du kan hjælpe med at bringe til KLAGE.  Nu har du magt til at bringe disse dromme til virkelighed.
+ID: 386
+Title: SCENE_END1 per-pilot
+Data: Nå, den onde heks er dod...  Det vil gore dit job meget lettere!  For det forste, at Nova-projektet lyder som om det kunne være en god ting at hente igen.  Måske havde den gamle mand bare ikke den rigtige hjerne...
+Ganymede var let.  Kreissack var en brise.  Den næste udfordring bliver hele Jupiter.  Og Så Mars.  Og så Jorden.
+Men for nu skal du mode dit folk.
+ID: 387
+Title: SCENE_END1 per-pilot
+Data: Med Kreissack dod, vil der være indlysende ændringer.  Bestyrelsen taler allerede om at vælge en ny præsident, og du er bare manden til det job.
+Forst skal du bringe Ganymede op i fart.  Brug derefter sine enorme naturressourcer til at producere H.A.R.'s i rekordfart.  Så, når anerkendelsen er der, byde på formand.
+Når du er præsident, kan du afslore dit sande navn og vise, at dette firma er din fodselsret.  Endnu en gang vil KRIG være en virksomhed for at hjælpe menneskeheden, ikke slavebande den.  Måske kan du endda ændre navnet til Aeronautics og Robotics Technologies!
+ID: 388
+Title: SCENE_END1 per-pilot
+Data: I en lille Alco-bar modte du lederen af den berygtede lejesoldatgruppe Iron Fist.  Med Kreissack ude af vejen indrommede de frit at blive ansat til at dræbe alle, der er forbundet med Nova-projektet.
+De forklarer, at dine forældre blev placeret på et rumfærskib og derefter odelagt af laserbrand.  Af vrede trækker du en pistol, klar til at slå ned mindst en af disse fjender som hævn, for resten fordamper dig.
+Din sidearm er der ikke.  Du stinker som Iron Fist repræsentanter griner.  Deres leder siger: "Din hævn er forbi, ven.  Anyway, vi har brug for dig på Ganymede i live.  Der er stadig meget arbejde, der skal gores."
+"Dine forældre var dode, uanset om vi dræbte dem eller ej.  Nu har vi brug for, at du er med til at kæmpe mod Kærlighed.  Kreissuck var kun begyndelsen.  Ganymede er kun begyndelsen.  Pas på din ryg, knægt."
+Nu forbereder du dig på at gå om bord på skibet, der vil tage dig til dit nye liv...
+ID: 389
+Title: SCENE_END1 per-pilot
+Data: En menneskelig hjerne inde i en robot?   Du tænker på mulighederne.  Hvor vidunderligt kunne det være at være inde i den metalramme PERMANENT?  Hvor KRAFTIG?
+Men se, hvad denne magt gjorde mod Kreissack.  Du spekulerer på, hvad det kan gore ved dig...
+Du arkiverer den tanke i de morkere fordybninger af dit sind og vender din opmærksomhed mod fremtiden.  En fremtid, hvor H.A.R. Arenakampe er en sport i stedet for et simpelt reklamestunt.  Da dette ikke ville indebære skade på levende væsener, kunne det nemt komme forbi Verdensfredsorganisationen.
+Ja, det er rigtigt!  En ny sport!  Plus penge og berommelse vil gå til dig!  Til sidst, så vil KRIG...
+ID: 390
+Title: SCENE_END1 per-pilot
+Data: Selvfolgelig!  Kreisscks hemmelighed!  Hvad kan der ske med dit perfekte sind inde i en perfekt krop?
+ID: 391
+Title: SCENE_END1 per-pilot
+Data: Nova... Fantastisk...
+Du husker folelsen, da det monster af en robot dukkede op overfor dig.  Stadig forbloffet over, at du var i stand til at overvinde noget så kraftfuldt, du sidder gennem de endelose moder og horinger i en dos.
+"Mr. Det er Jihad.  Er det okay?"  Du indser, at en person, der har talt med dig i de sidste femten minutter forventer et svar...
+"I Hvert Fald... James, er det?  Ja... hvad... hvad...  Jeg er ked af det, men I herrer bliver nodt til at undskylde mig..."
+Du går, ignorerer protesterne fra WAR's bestyrelse.  Deres kævl over, hvem der bliver den næste konge af bakken gor lidt mere end irriteret dig.
+"Hvordan kan jeg bygge den robot?" siger du hojt.  Du kommer ind på dit kontor og begynder straks at skrive noter på de metaller, du har bemærket under kampen.  Placeringen af armene... De sandsynlige mikromotorer i hænderne...
+Den Nova-robot, du designer, vil en dag tage den plads i WAR's stadigt stigende arsenal af robotter.  Selvom den model, du designer, aldrig vil holde en egentlig menneskelig hjerne, vil Nova snart blive den mest formidable 'bot i kataloget...
+...og Ganymede er hvor produktionen vil starte...
+ID: 392
+Title: SCENE_END1 per-pilot
+Data: Forestil dig, at gamle fjols tænker, at blot at placere sin hjerne inde i en robot ville gore ham til en slags god!  Disse mennesker vil aldrig forstå, at odelæggelse aldrig gor fremskridt.  Dine ojne lukker...
+< 695342: Operationer er ved at forlobe som planlagt. Jeg er ikke blevet opdaget. >
+< 000126: Erkendt.  Vi lytter.  Er du blevet deres leder? >
+69542: Jeg er deres leder for vores måne.  De kalder det Ganymede.>
+< 000385: Så har vi vundet.  De vil gå nu.>
+< 695342: Ikke endnu. Jeg vil snart blive spurgt, om jeg vil blive formand for KRIG.
+< 000014: Du vil acceptere.  Så vil de gå.  Vi vil være alene igen.>
+< 695342: Ja.  Men de kender de mineraler, vores planet har.  De vil vende tilbage.>
+< 000001: Så vil de gå til grunde.>
+... Dine ojne er åbne.  "Hvilket er, hvad jeg har onsket hele tiden..." siger du bittert.
+ID: 393
+Title: SCENE_END1 per-pilot
+Data: Selvfolgelig vandt du.  Det gamle fjols forstod aldrig dine evner.  Og han betalte for sin fejl, gjorde han ikke.
+Umiddelbart tildeler du, hvilke ingeniorer du kan monstre for at finde ud af, hvordan Kreissack var i stand til at placere sin hjerne inde i en maskine.
+Hvor ville det være vidunderligt at endelig sige farvel til denne stol og tilbringe evigheden i den perfekte krop af en robot.  Du ser ned på skrive- og designspecifikationerne for Cossette-robotten.
+"Jeg vil snart gå igen." siger du, "og så vil jeg se, hvilken slags KORT præsident jeg kan gore..."
+ID: 394
+Title: SCENE_END1 per-pilot
+Data: Hvem kunne have bedt om mere?  Sikke en bonus!  At få Ganymede og levere dodsstodet til Kreissack selv!
+Selvfolgelig skal du beskæftige sig med tosere i bestyrelsen, men med den store chef ud af den måde, de vil være lidt mere end foder.
+En af de forudsigelige små papirpushovere forsogte allerede at ændre hakkeordenen tidligere, husker du...
+"Minste, sir."  Du ser ned som dækningen over dit måltid er hævet.
+"Sjæld bof.  Min favorit, Jonesey!" Du indånder den skarpe aroma af din sejrsfest...
+For skarpt...  Du smiler...
+"Jonesey?  Dette indeholder Noxosilinon Aerodide.  Meget dodbringende, meget dyr gift.  Lugter lidt som kylling.  "Må du tage den væk?"
+Han stammer, "...ja... sir... Vil det være alt, sir?" siger han, mens han bakker ud af rummet. Han lukker doren bag sig, for du har tid til at svare.
+"Nej, det vil helt sikkert ikke være alt." Du læner dig tilbage i din stol og smider dine fodder på bordet og dine hænder bag dit hoved, "Det vil kun være begyndelsen..."
+ID: 395
+Title: SCENE_END2 per-pilot
+Data: Når du flyver mod månen, falder en fred over dig.
+Du foler, at du endelig kan være glad, nu hvor dine forældres dod er blevet hævnet.
+ID: 396
+Title: SCENE_END2 per-pilot
+Data: Når du flyver mod månen, lukker du ojnene og begynder at tænke på, hvad du snart vil have.
+Ingen kan stoppe dig nu.
+ID: 397
+Title: SCENE_END2 per-pilot
+Data: Når du flyver mod månen, falder en fred over dig.
+Du foler, at du endelig kan slappe af, nu hvor den hårde del af rejsen er forbi.
+ID: 398
+Title: SCENE_END2 per-pilot
+Data: Når du flyver mod månen, falder en fred over dig.
+Du foler, at du endelig kan være glad, nu hvor dine forældres dod er blevet hævnet.
+ID: 399
+Title: SCENE_END2 per-pilot
+Data: Du kan ikke stoppe med at tænke på fremtiden, når du flyver mod månen.
+Når du lander på den morke side af månen, ser fremtiden lys ud.
+ID: 400
+Title: SCENE_END2 per-pilot
+Data: Du finder på dit trukne en nogle til et stort rum begravet dybt inde i Ganymede.  Åbner doren, du stirrer på den storste videnskabelige facilitet, du nogensinde har set.  Det er klart, at Kreissck planlagde en fremtid her. Hans fremtid.
+"Hjem" siger du, at hore ordet ekkoet tilbage fra morket.
+ID: 401
+Title: SCENE_END2 per-pilot
+Data: Planerne dannes, når du flyver mod månen.
+Ingen tvivl om det, månen vil fungere perfekt.
+ID: 402
+Title: SCENE_END2 per-pilot
+Data: Når du vender tilbage til dit hjem, tænker du på, hvordan du stopper dem.
+Disse mennesker med deres urimelige og umættelige ambitioner, de er gået langt nok!
+ID: 403
+Title: SCENE_END2 per-pilot
+Data: Når du flyver mod månen, synes dine handicaps begrænsninger at falme væk.
+Med dine dromme inden for rækkevidde foler du dig stærkere og mere levende end nogensinde.
+ID: 404
+Title: SCENE_END2 per-pilot
+Data: Nu flyver du mod månen, hvilket gor en mental liste over firmaets mænd, der har den usunde tendens til at tænke for sig selv.
+Du kan ikke lade være med at smile, når en tanke opstår...
+Nu skal du bruge en livvagt.
+ID: 405
+Title: Select a Tournament
+Data: VÆLG DEN TURNERING, DU ODSLER, SKAL DE INDTASTE
+ID: 406
+Title: Select Photo for Pilot
+Data: VÆLG FOTO TIL PILOT %s
+ID: 407
+Title: Select chr to load
+Data: VÆLG PILOT TIL AT BÆRE BORD
+ID: 408
+Title: Select chr to delete
+Data: VÆLG PILOT TIL SLETNING
+ID: 409
+Title: Select Opponent
+Data: VÆLG MODSTANDER
+ID: 410
+Title: Training Title
+Data: BLUNT STONE'S
+STROMAFREVARIALÆG
+TEKNIKKER:
+ID: 411
+Title: Training Title
+Data: DEN LEGENDARISK
+FLASH TRÆNING
+FOR FÆNGSEL
+UDFORDRET:
+ID: 412
+Title: Training Title
+Data: VLAD IRONSIDE'S
+AEROB OG CHOK
+MODSTANDSDYGTIGHED
+WORKSHOP:
+ID: 413
+Title: Training Confirmation
+Data: TAG KRAFTVÆRK I %?
+ID: 414
+Title: Training Confirmation
+Data: TAG AGILITY TRAINING KURS FOR %s?
+ID: 415
+Title: Training Confirmation
+Data: TAG UDHOLDENDE TRÆNING KURS I %s?
+ID: 416
+Title: Training Help
+Data: TRÆNER FOR AT STIGE PILOTS MAGTNÆRE
+ID: 417
+Title: Training Help
+Data: TRÆN FOR AT FOROGE PILOTS AGILITETSNIVÆRNIT
+ID: 418
+Title: Training Help
+Data: TOG FOR AT STIGE PILOTS UDVANDRINGSNIVÆRD
+ID: 419
+Title: Leave Training
+Data: FORLAD PILOT TRÆNINGSCENTERET
+ID: 420
+Title: Trade, gain cash
+Data: HANDLE DINE %s for A %s AND %s?
+ID: 421
+Title: Trade, spend cash
+Data: HANDLE DINE %s OG %s FOR A %s?
+ID: 422
+Title: Trade, equitable
+Data: HANDLE DINE %s for A %s?
+ID: 423
+Title: "Select" button
+Data: SELECT
+ID: 424
+Title: Tournament: Fight %s
+Data: SELECT
+ID: 425
+Title: Enter Training Help
+Data: TAG TRÆNINGSKURS FOR AT OGE KRÆFT, AGNILITET ELLER UDHOLDENHED
+ID: 426
+Title: Buy Upgrade Kits Help
+Data: KOB OVERGANGSÆT TIL DIN ROBOT
+ID: 427
+Title: Sell Upgrade Kits Help
+Data: SÆLG OPGRADER KITS FRA DIN ROBOT
+ID: 428
+Title: Pilot Load Help
+Data: LÆS PILOT FRA DISK
+ID: 429
+Title: Pilot Create Help
+Data: SKAPRING EN NY PILOT
+ID: 430
+Title: Pilot Delete Help
+Data: SLETT EN PILOT FRA DISK
+ID: 431
+Title: Enter Simulator Help
+Data: PRAKSIS MOD EN FJENDTLIG PILOT ELLER SPILLER I EN COMPUTERSITI
+ID: 432
+Title: Close Tournament-Mode Help
+Data: FORLAD KOMMANDECENTERET
+(DIN PILOT VIL BLEV REDDET AUTOMATICELT)
+ID: 433
+Title: Tournament Register Help
+Data: REGISTRERING FOR EN NY TOURNAMENT
+ID: 434
+Title: Tournament Difficulty
+Data: ALUMINUM
+(LET)
+ID: 435
+Title: Tournament Difficulty
+Data: JER
+(MEDIUM)
+ID: 436
+Title: Tournament Difficulty
+Data: STEEL
+(HID)
+ID: 437
+Title: Tournament Difficulty
+Data: TUNG
+METAL
+ID: 438
+Title: No
+Data: NEJ
+ID: 439
+Title: Yes
+Data: JA
+ID: 440
+Title: Character Name Prompt
+Data: INTER PILOT'S NAVN
+ID: 441
+Title: Robot Primary color
+Data: ÆNDRE HOMSERFARVE TIL ROBOT
+ID: 442
+Title: Robot Secondary color
+Data: ÆNDRING AF SEKUNDÆRE KUGLE FARVER TIL ROBOT
+ID: 443
+Title: Robot Third color
+Data: ÆNDRE TREDJE KAMPAGN FARVE TIL ROBOT
+ID: 444
+Title: Sell Power Upgrade
+Data: SÆLG POWER NEVEL FOR %s ANGREB
+ID: 445
+Title: Buy Power Upgrade
+Data: OPGRADER DE SKADER, DER ER GJORT AF ALL %S ANGREB
+ID: 446
+Title: Sell Speed Upgrade
+Data: SÆLG HASTIGHEDSNOVELSE FOR %s ANGREB
+ID: 447
+Title: Buy Speed Upgrade
+Data: OPGRADERER HASTIGHEDEN AF ALLE %s ANGREB
+ID: 448
+Title: Sell Armor Upgrade
+Data: SÆLG ARMT PLATING NIVEAER FRA ROBOT
+ID: 449
+Title: Buy Armor Upgrade
+Data: OPGRADERER BEVÆBNING AF ROBOTEN
+ID: 450
+Title: Sell Stun Res. Upgrade
+Data: SÆLG STUN RESISTANCENIVEA FRA ROBOT
+ID: 451
+Title: Buy Stun Res. Upgrade
+Data: OPGRADERING AF STUN RESISTANCENIVNEN FOR ROBOT
+ID: 452
+Title: Trade Robot tooltip
+Data: HANDELS NUVÆRENDE ROBOT FOR EN ANDEN TYPE ROBOT
+ID: 453
+Title: No Robots Available
+Data: INGEN OVERKOMMENDE
+ROBOTTER TIL RÅDIGHED
+FOR HANDEL
+ID: 454
+Title: Robots Available:
+Data: TILGÆNGEBARE:
+ID: 455
+Title: leave upgrade sell
+Data: LAV EQUIPMENT EXCHANGE CENTER
+ID: 456
+Title: leave upgrade buy
+Data: FORLAD ROBOT FORBEDELSESCENTER
+ID: 457
+Title: Translation Name
+Data: Dansk
+Maskinoversottelse
