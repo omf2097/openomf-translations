@@ -1,0 +1,57 @@
+name: Check
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - master
+  pull_request:
+  repository_dispatch:
+    types: [run_build]
+
+jobs:
+
+  check_languages:
+    name: Check Languages
+    runs-on: windows-latest
+
+    env:
+      VCPKG_BINARY_SOURCES: "clear;x-gha,readwrite"
+
+    steps:
+    - name: Export Github Actions cache environment variables
+      uses: actions/github-script@v7
+      with:
+        script: |
+          core.exportVariable('ACTIONS_CACHE_URL', process.env.ACTIONS_CACHE_URL || '');
+          core.exportVariable('ACTIONS_RUNTIME_TOKEN', process.env.ACTIONS_RUNTIME_TOKEN || '');
+    - uses: actions/checkout@v4
+    - name: Check out openomf sources
+      uses: actions/checkout@v4
+      with:
+        repository: 'omf2097/openomf'
+        path: 'openomf'
+    - name: Check out VCPKG
+      uses: actions/checkout@v4
+      with:
+        repository: 'microsoft/vcpkg'
+        path: 'openomf/vcpkg'
+    - uses: lukka/get-cmake@latest
+    - uses: ilammy/msvc-dev-cmd@v1
+    - name: Install VCPKG Dependencies, Configure CMake
+      run: >
+        cmake -S openomf -B build
+        --toolchain vcpkg/scripts/buildsystems/vcpkg.cmake
+        -DVCPKG_TARGET_TRIPLET="x64-windows-static"
+        -A x64
+        -DBUILD_LANGUAGES=ON
+    - name: Build languagetool.exe
+      run: cmake --build build --config Release --target languagetool
+    - name: Check Languages
+      shell: bash
+      run: |
+          echo "Expecting $(cat langstr_count) language strings, as specified in the langstr_count file."
+          for LANG in *.TXT; do
+            echo "Checking $LANG"
+            build/Release/languagetool.exe --import "$LANG" --check-count "$(cat langstr_count)" > ignored_log || exit 1
+          done
